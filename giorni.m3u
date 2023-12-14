@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:30,GEN TV
+#EXTVLCOPT:network-caching=1000
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:30, PLANETA TV MOVIES
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:30, PLANETA TV FAMILY
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w814070351.m3u8
+#EXTINF:30, PLANETA TV MUSIC
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/music/live/chunklist_w2063157537.m3u8
+#EXTINF:30, CIUDAD MAGICA TV
+#EXTVLCOPT:network-caching=1000
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:30, TV RETRO PALMARES
+#EXTVLCOPT:network-caching=1000
+https://rpn3.bozztv.com/ssh101/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:30, RETRO PLUS
+#EXTVLCOPT:network-caching=1000
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w621547260.m3u8
+#EXTINF:30, RETRO PLUS 2
+#EXTVLCOPT:network-caching=1000
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w638206913.m3u8
+#EXTINF:30, RETRO PLUS 3
+#EXTVLCOPT:network-caching=1000
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w432410748.m3u8
+#EXTINF:30, CLASSIC CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
+#EXTINF:30, TVS RETRO
+#EXTVLCOPT:network-caching=1000
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:30, RETROXTV
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+#EXTINF:30, RETRO SERIES
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:30, XTREMA TV
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:30, XTREMA SERIES
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/chunklist_w285423086.m3u8
+#EXTINF:30, XTREMA CINE LATINO
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/chunklist_w590333546.m3u8
+#EXTINF:30, XTREMA CINE ACCION
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/chunklist_w1049546355.m3u8
+#EXTINF:30, XTREMA CINE EUROPA
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/chunklist_w2132503067.m3u8
+#EXTINF:30, XTREMA CINE DRAMA
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/chunklist_w955893154.m3u8
+#EXTINF:30, XTREMA CINE ASIA
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineasia/cineasia/chunklist_w1531594025.m3u8
+#EXTINF:30, XTREMA CINE COMEDIA
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/chunklist_w1255775105.m3u8
+#EXTINF:25, HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:23, HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:11, HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:11, HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:26, HBO PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:11, HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:26, HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:11,CINE AR
+#EXTVLCOPT:network-caching=1000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1771389624.m3u8
+#EXTINF:11,SONY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF:0, TIGUERITOS TV
+#EXTVLCOPT:network-caching=1000
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:0, ORBIT TV
+#EXTVLCOPT:network-caching=1000
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0, STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://160.20.165.245:8000/play/a01c/index.m3u8
+#EXTINF:11,CINE LATINO
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a06p/index.m3u8
+#EXTINF:11,GRJNGO WESTERN
+#EXTVLCOPT:network-caching=1000
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:11,WU TANG COLLECTION TV
+#EXTVLCOPT:network-caching=1000
+https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/6d16eb5b-0326-4b6d-a0e9-b3b7a1ca4f47/3.m3u8
+#EXTINF:28, TCM
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:11, TCM
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a04e/index.m3u8
+#EXTINF:11, MOVIE FE
+#EXTVLCOPT:network-caching=1000
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1272120785.m3u8
+#EXTINF:120, FREE TV
+#EXTVLCOPT:network-caching=1000
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:30, CINE ACCION
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:31, CINE SUSPENSO
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:60, CINE REAL
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+#EXTINF:60, CINE SUREÑO
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1df0767f-74e8-44f4-9cf7-92d8d9204262/4.m3u8
+#EXTINF:60, TOP CINE
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
+#EXTINF:60, TU CINE
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+#EXTINF:60, HORRORFY
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
+#EXTINF:60, JUNTOS
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
+#EXTINF:28, SOLIVE TV
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:54, CHIQUILINES
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
+#EXTINF:35, MY TIME MOVIES 1
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:54, MY TIME MOVIES 2
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:54, FLOU CINE
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
+#EXTINF:36, PELIMEX
+#EXTVLCOPT:network-caching=1000
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+#EXTINF:60, MEGA CINE TV
+#EXTVLCOPT:network-caching=1000
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:26, PASIONES HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:26, ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:11, CANAL CLARO
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a01t/index.m3u8
+#EXTINF:11,ATRES SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.228.232.205:16000/play/a03e/index.m3u8
+#EXTINF:25, PARAMOUNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:11,WARNER
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a050/index.m3u8
+#EXTINF:11,SPACE
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a02c/index.m3u8
+#EXTINF:11,SPACE
+#EXTVLCOPT:network-caching=1000
+http://200.24.204.242:6020/play/a0dd/index.m3u8
+#EXTINF:11, STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://200.24.204.242:6020/play/a0cm/index.m3u8
+#EXTINF:11, STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://200.24.204.242:6020/play/a0ae/index.m3u8
+#EXTINF:11,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://200.24.204.242:6020/play/a08s/index.m3u8
+#EXTINF:28, XTREMA ANIME
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:46, XTREMA ANIME
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1281305084.m3u8
+#EXTINF:46, ESPORTS MAX TV
+#EXTVLCOPT:network-caching=1000
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:29, EL CHAVO
+#EXTVLCOPT:network-caching=1000
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:46, MAGIC KIDS
+#EXTVLCOPT:network-caching=1000
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:46, RETRO MAGICO
+#EXTVLCOPT:network-caching=1000
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:46, ANIME STATION
+#EXTVLCOPT:network-caching=1000
+https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/chunks.m3u8
+#EXTINF:29, LATINO KIDS TV
+#EXTVLCOPT:network-caching=1000
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:29, ENERGEEK
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
+#EXTINF:29, DREIKO TV
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:29, PANDAMAX
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/pandamaxch/chunks.m3u8
+#EXTINF:29, FANPOP TV
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
+#EXTINF:29, ACS NETWORK
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1190583735.m3u8
+#EXTINF:29, SPECTRUM CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTINF:29, MI TV CLASICA
+#EXTVLCOPT:network-caching=1000
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:29, ANIPOP TV
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/anipop-tv/chunks.m3u8
+#EXTINF:29, EG RADIO
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
+#EXTINF:29, CCP RADIO
+#EXTVLCOPT:network-caching=1000
+https://wifiexpert-1.energeek.cl/energeek/canal-3/chunks.m3u8
+#EXTINF:21, CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:25, BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:24, EL TRECE
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:108, TELEFE
+#EXTVLCOPT:network-caching=1000
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:108, TV PUBLICA
+#EXTVLCOPT:network-caching=1000
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+#EXTINF:108, AMERICA TV
+#EXTVLCOPT:network-caching=1000
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqAFN7H3e-JrM3keLiP_bvckm-gx2OCjo_lZdw_XCOIMvNyE8MmaauvR_YoxbZND1Sb5EIh1mxGBBldTtFwt8SDmQ0Q7W2UOoLHzVwQ-7-K834VKTdoH9QmItcbZ0KnVX8F3wnJd-lYG0h6eqNJP3hIluogP5ak4cl1DJIeHU-9852B0VbQV0cjBQu0tyGzaUxId9_HkeJyfj-Qo04knY4Qv5XnrM4zBzyeCVbFLDj3dfwPr7TLYFabqwbKZlMMQRuhNdQNulfzLbULdYGzjDeYumbNpyY5V_nejqLC3Zm6X-ixWpQLFuTz6gYCw18ZCqnwfCGnKS_64tjE7IPBivtEsbK_fhYEmPbb0j1YKZSJ4n3jipTJpDLd6rf3GiulbcRfixHZkvu2Wt6EBliqvV9XaTYdcj2p_uHGZCODbu1RmTcbBNtYsn7fejb_LdI-F5YkmqKGw62v8kO2MC33-2nbTlROTb9MCoTXUdBMO-HdjN1bAcV75oDq7pQu13nkbPwaD8RxNF8b3w45j93z6z1sQAEbzfZSxQbypimC97igLAYJ3k3BMA5Taf89TMJJFX_eSNJuNnWCd0uCXs-tUl5CEuSvsEFrgL_QkZADCm4oc-aD7C-UY9LMKGPGUZCHp45gK9FUwb-vGMGHCedn9W3JxcVh4X0vTREbzek5kXzHam1z3rCSEFJrgWWxPAVJvzmn9hgDNr7jJk97IF-umX2feLLbGgs0uCPuEAoahOZDnGp7AL3-MOSW2VtxKuiDpIcRdYwruBmZUqSRj4wjKcxqPpwnkzFwnE-fFQnlxg9WidfuTzc1IY2VMPhP7b7snU_arN6Pr8kqQxd75gQsKz_ENBt6pk1s2enNhEogxY8BjzJN5HKdieORCZ8-ErZQkMCpSGgyWnC8YtcnFhcUx4Z0gASoJZXUtd2VzdC0yMJ0I.m3u8
+#EXTINF:108, DEPORTV
+#EXTVLCOPT:network-caching=1000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1944932080.m3u8
+#EXTINF:0, ELEVEN SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://1tv41.icu:8080/Py5zFZ/363334/167747
+#EXTINF:0, ELEVEN SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://1tv41.icu:8080/Py5zFZ/363334/167748
+#EXTINF:0, ELEVEN SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://1tv41.icu:8080/Py5zFZ/363334/167749
+#EXTINF:0, LA LIGA PLUS
+#EXTVLCOPT:network-caching=1000
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8
+#EXTINF:0, CHILEVISION DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/pa/event/1P2iL-EkSe2OuVR2IZ-v6w/stream/2f48bacc-70d5-4c4f-b926-2ac45149642b:SCL/variant/87082430ad4943b982fa8ceb3632bb09/bandwidth/1962448.m3u8
+#EXTINF:64, TyC SPORTS
+#EXTVLCOPT:network-caching=1000
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.
+#EXTINF:117, EVENTOS TyC PLAY 1
+#EXTVLCOPT:network-caching=1000
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 2
+#EXTVLCOPT:network-caching=1000
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:116, EVENTOS TyC PLAY 3
+#EXTVLCOPT:network-caching=1000
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:119, EVENTOS TyC PLAY 4
+#EXTVLCOPT:network-caching=1000
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:118, EVENTOS TyC PLAY 5
+#EXTVLCOPT:network-caching=1000
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 6
+#EXTVLCOPT:network-caching=1000
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 7
+#EXTVLCOPT:network-caching=1000
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 8
+#EXTVLCOPT:network-caching=1000
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 9
+#EXTVLCOPT:network-caching=1000
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:115, EVENTOS TyC PLAY 10
+#EXTVLCOPT:network-caching=1000
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:116, EVENTOS TyC PLAY 11
+#EXTVLCOPT:network-caching=1000
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:116, EVENTOS TyC PLAY 12
+#EXTVLCOPT:network-caching=1000
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:0, ASPEN
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+#EXTINF:11,MTV
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a06k/index.m3u8
+#EXTINF:11, EXITOS DE MTV
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a02i/index.m3u8
+#EXTINF:11, MTV DE LOS 80
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a02j/index.m3u8
+#EXTINF:11, MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://138.59.177.34:8000/play/a04b/index.m3u8
+#EXTINF:29, OLDIES HITS TV
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:30, RECUERDOS RETRO RADIO TV | CL
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:48, FM MAS TV LA CARLOTA CORDOBA
+#EXTVLCOPT:network-caching=1000
+http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
+#EXTINF:49, GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
+#EXTVLCOPT:network-caching=1000
+http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
+#EXTINF:80, A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
+#EXTVLCOPT:network-caching=1000
+https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+#EXTINF:75, CADENA 1470 AM LANUS
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
+#EXTINF:26, RADIO ROCHA AM 1570 LA PLATA
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
+#EXTINF:48, RADIO AZAHARES FM 101.5 CORRIENTES
+#EXTVLCOPT:network-caching=1000
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:31, 95.5 FM OK ARROYITO CORDOBA
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
+#EXTINF:11,HISTORY
+#EXTVLCOPT:network-caching=1000
+http://160.20.165.245:8000/play/a00m/index.m3u8
+#EXTINF:11,El GOURMET
+#EXTVLCOPT:network-caching=1000
+http://45.228.232.205:16000/play/a05c/index.m3u8
+#EXTINF:26, CANAL 11 HONDURAS
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a02q/index.m3u8
+#EXTINF:26, CANAL 12 ESA
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a05h/index.m3u8
+#EXTINF:25, CANAL 6 ESA
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a05g/index.m3u8
+#EXTINF:16, CANAL 8 MAR DEL PLATA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:29, EL SELLO TV MADARIAGA
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
+#EXTINF:0, CANAL 5 AZUL
+#EXTVLCOPT:network-caching=1000
+https://nd106.republicaservers.com:4433/hls/delpueblomedios/index.m3u8
+#EXTINF:12, CANAL U CORDOBA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+#EXTINF:30, TELEDIARIO RIO CUARTO
+#EXTVLCOPT:network-caching=1000
+https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+#EXTINF:30, CABLE IMAGEN ARMSTRONG SANTA FE
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:0, CANAL 4 SAN JUAN
+#EXTVLCOPT:network-caching=1000
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:30, CANAL 9 MENDOZA
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:27, CANAL 9 LA RIOJA
+#EXTVLCOPT:network-caching=1000
+https://inliveserver.com:1936/17012/17012/playlist.m3u8
+#EXTINF:24, CANAL 7 NEUQUEN
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:30, CANAL 10 NEUQUEN
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
+#EXTINF:31, SOMOS LA PAMPA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+#EXTINF:30, 13 MAX CORRIENTES
+#EXTVLCOPT:network-caching=1000
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:29, ATV ARGENTINA  19.1
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:20, TVU LA PLATA
+#EXTVLCOPT:network-caching=1000
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:78, TELEVISION 33
+#EXTVLCOPT:network-caching=1000
+https://tuvideoonline.com.ar:3703/stream/play.m3u8
+#EXTINF:30, CANAL 72
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/canal72tv/canal72tv/playlist.m3u8
+#EXTINF:31, CANAL 3 ARGENTINA
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/canal3argentina/canal3argentina/playlist.m3u8
+#EXTINF:29, TEVEO DIGITAL
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+#EXTINF:34, SOMOS VILLA MARIA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.net:4443/villamaria/villamaria/chunklist_w1651385408.m3u8
+#EXTINF:31, CANAL 4 SAN FRANCISCO CORDOBA
+#EXTVLCOPT:network-caching=1000
+http://204.199.3.2/.m3u8
+#EXTINF:24,TVCOOP POSSE
+#EXTVLCOPT:network-caching=1000
+http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
+#EXTINF:16, QUATRO TV RIO CUARTO
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+#EXTINF:29, UNIRIO TV
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
+#EXTINF:36, CANAL 20 VILLA MARIA CORDOBA
+#EXTVLCOPT:network-caching=1000
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:30, LA VOZ TV TUCUMAN
+#EXTVLCOPT:network-caching=1000
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+#EXTINF:0, CANAL 12 TUCUMAN
+#EXTVLCOPT:network-caching=1000
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+#EXTINF:48, CANAL 34 SAN JUAN
+#EXTVLCOPT:network-caching=1000
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:25,ITEL TV
+#EXTVLCOPT:network-caching=1000
+http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
+#EXTINF:24, EL DIA GUALEGUAYCHU
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
+#EXTINF:48, RADIO ZONA FM 99.7 CONCORDIA
+#EXTVLCOPT:network-caching=1000
+https://streamyes.alsolnet.com/radiozona/live/playlist.m3u8
+#EXTINF:29, COOPE TV
+#EXTVLCOPT:network-caching=1000
+https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/playlist.m3u8
+#EXTINF:60, UNAM TRANSMEDIA MISIONES
+#EXTVLCOPT:network-caching=1000
+http://192.100.186.53:8090/hls/live.stream.m3u8
+#EXTINF:24, C6 MISIONES
+#EXTVLCOPT:network-caching=1000
+https://iptv.ixfo.com.ar:30443/live/c6sd/playlist.m3u8
+#EXTINF:12, CANAL 13 LA RIOJA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+#EXTINF:30, CANAL 2 SANAGASTA
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+#EXTINF:30, RADIO LIBERTAD
+#EXTVLCOPT:network-caching=1000
+https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
+#EXTINF:12, TV PUBLICA PAMPEANA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:20, CPE TV LA PAMPA
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:32, CANAL 2 JUJUY
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:60, AVC HD
+#EXTVLCOPT:network-caching=1000
+https://ssh101.bozztv.com/ssh101/streamavc/chunks.m3u8
+#EXTINF:25, 5TV CORRIENTES
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:30, CTV CORRIENTES
+#EXTVLCOPT:network-caching=1000
+https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
+#EXTINF:120, TELENORD CORRIENTES
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:31, CANAL 3 FORMOSA
+#EXTVLCOPT:network-caching=1000
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:29, SUBLIME GRACIA TV FORMOSA
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:30, CANAL 5 PICO TRUNCADO SANTA CRUZ
+#EXTVLCOPT:network-caching=1000
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:119, NG FEDERAL CHACO
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:18, LA RED
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:16, UCV
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:60, UCL TV
+#EXTVLCOPT:network-caching=1000
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:29, ALMAYA TV
+#EXTVLCOPT:network-caching=1000
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+#EXTINF:96, BELLA ASUNCION TV
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:28, CANAL 12 RTV
+#EXTVLCOPT:network-caching=1000
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+#EXTINF:25, ESTACION CRISTAL TV
+#EXTVLCOPT:network-caching=1000
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:23, CENTRAL TV CHOSICA
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:156, CANAL 2
+#EXTVLCOPT:network-caching=1000
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:60, MULTICANAL
+#EXTVLCOPT:network-caching=1000
+https://ssh101.bozztv.com/ssh101/KIOCApP/chunks.m3u8
+#EXTINF:30, OASIS TV
+#EXTVLCOPT:network-caching=1000
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:30, TV PENOL
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:30, CANAL 1
+#EXTVLCOPT:network-caching=1000
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:30, CANAL 14 SAN CARLOS
+#EXTVLCOPT:network-caching=1000
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:30, LIMON TV
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:31, SAN VITO TV
+#EXTVLCOPT:network-caching=1000
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:30, STV El CANAL FAMILIAR
+#EXTVLCOPT:network-caching=1000
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:77, GH TELEVISION CANAL 10
+#EXTVLCOPT:network-caching=1000
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:28, GUAYMATE TV
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8
+#EXTINF:30, LVM
+#EXTVLCOPT:network-caching=1000
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:30, MEGAVISION
+#EXTVLCOPT:network-caching=1000
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
+#EXTINF:7, READY TV CANAL 6
+#EXTVLCOPT:network-caching=1000
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:0, CO TELEPACIFICO 
+#EXTVLCOPT:network-caching=1000
+http://1tv41.icu:8080/Py5zFZ/363334/78729
