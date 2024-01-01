@@ -82,6 +82,8 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:0,VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:20,CINEMA PLUS
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:0,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:25, HBO HD
@@ -249,9 +251,15 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:46, ANIME STATION
 #EXTVLCOPT:network-caching=1000
 https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/chunks.m3u8
+#EXTINF:40, LOCOMOTION
+#EXTVLCOPT:network-caching=1000
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:29, LATINO KIDS TV
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:135, ZAZ TV
+#EXTVLCOPT:network-caching=1000
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:29, ENERGEEK
 #EXTVLCOPT:network-caching=1000
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
@@ -289,9 +297,15 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:25, BOOMERANG
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:24, AMERICA TV
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:24, EL TRECE
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -316,15 +330,15 @@ https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:24, TN 24
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:24, C5N
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8 
 #EXTINF:30, LA NACION
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:36, ARGENTINISIMA SATELITAL
 #EXTVLCOPT:network-caching=1000
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:108, GARAGE TV
-#EXTVLCOPT:network-caching=1000
-https://stream1.sersat.com/hls/garagetv.m3u8%20
 #EXTINF:108, DEPORTV
 #EXTVLCOPT:network-caching=1000
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1944932080.m3u8
@@ -385,6 +399,18 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 #EXTINF:23, MEGA 98.3
 #EXTVLCOPT:network-caching=1000
 https://mega983.stweb.tv/mega983/live/chunks.m3u8
+#EXTINF:23, URBANA PLAY 104.3 FM
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
+#EXTINF:23, LA 100
+#EXTVLCOPT:network-caching=1000
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
+#EXTINF:23, SONIDO SUR TV
+#EXTVLCOPT:network-caching=1000
+https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
+#EXTINF:23, 105.5 FM TIGRE
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:11,MTV
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a06k/index.m3u8
