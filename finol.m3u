@@ -113,6 +113,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1771389624.m
 #EXTINF:11,SONY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF:0,SONY
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092579
 #EXTINF:0, TIGUERITOS TV
 #EXTVLCOPT:network-caching=1000
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -197,12 +199,26 @@ http://45.228.232.205:16000/play/a03e/index.m3u8
 #EXTINF:27, PARAMOUNT HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:11,Warner
+#EXTINF:11,WARNER
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a050/index.m3u8
+#EXTINF:0,WARNER
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092574
 #EXTINF:11,SPACE
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a02c/index.m3u8
+#EXTINF:0,SPACE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092578
+#EXTINF:0,TNT
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092603
+#EXTINF:0,TNT SERIES
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2095396
+#EXTINF:0,STAR CHANNEL 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092589
+#EXTINF:0,GLITZ
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210855
+#EXTINF:0,NAT GEO
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092567
 #EXTINF:78,NEOX TV
 #EXTVLCOPT:network-caching=1000
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -297,6 +313,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:25, BOOMERANG
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:0,AMERICA TV
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210836
+#EXTINF:0,AMERICA TV
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210835
 #EXTINF:24, AMERICA TV
 #EXTVLCOPT:network-caching=1000
 https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
@@ -306,39 +326,67 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+#EXTINF:0,EL TRECE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210852
+#EXTINF:0,El TRECE 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210853
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0,TELEFE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210861
+#EXTINF:0,EL NUEVE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210850
+#EXTINF:0,EL NUEVE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210851
 #EXTINF:108, TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+#EXTINF:0,TV PUBLICA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210865
 #EXTINF:31, CANAL DE LA CIUDAD
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:30, CANAL 26
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:0,CANAL 26
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210841
+#EXTINF:0,CANAL 26
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210840
 #EXTINF:30, CRONICA TV
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:0,CRONICA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210848
 #EXTINF:30, A24
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:0,A24
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210833
 #EXTINF:30, TN
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:0,TN
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210864
 #EXTINF:24, TN 24
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:24, C5N
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8 
+#EXTINF:0,C5N
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210834
 #EXTINF:30, LA NACION
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:36, ARGENTINISIMA SATELITAL
 #EXTVLCOPT:network-caching=1000
 https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:0,VOLVER
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210868
+#EXTINF:0,CANAL 21
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210839
 #EXTINF:108, DEPORTV
 #EXTVLCOPT:network-caching=1000
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1944932080.m3u8
@@ -393,6 +441,36 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:116, EVENTOS TyC PLAY 12
 #EXTVLCOPT:network-caching=1000
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:0,ESPN
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/219130
+#EXTINF:0,ESPN DEPORTES
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123475
+#EXTINF:0,ESPN EXTRA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123476
+#EXTINF:0,DIRECTV SSPORTS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123473
+#EXTINF:0,DIRECTV SPORTS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/219210
+#EXTINF:0,DIRECTV SPORTS 2
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123474
+#EXTINF:0,TNT SPORTS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2140800
+#EXTINF:0,BEIN SPORTS 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/219085
+#EXTINF:0,BEIN SPORTS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/223818
+#EXTINF:0,TUDN MX
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092577
+#EXTINF:0,TUDN USA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092604
+#EXTINF:0,WIN SPORTS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2095416
+#EXTINF:0,SKY SPORTS 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092605
+#EXTINF:0,SKY SPORTS F1
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123477
+#EXTINF:0,UFC FIGHT PASS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2095413
 #EXTINF:0, ASPEN
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
@@ -411,6 +489,8 @@ https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
 #EXTINF:23, 105.5 FM TIGRE
 #EXTVLCOPT:network-caching=1000
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:0,MUSIC TOP
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210858
 #EXTINF:11,MTV
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a06k/index.m3u8
@@ -710,6 +790,10 @@ https://i.mjh.nz/PlutoTV/15dd6de52b9914200091f047a-alt.m3u8
 https://i.mjh.nz/PlutoTV/16495c6ad115d060008bf6b52-alt.m3u8
 #EXTINF:0, NICK JR CLUB
 https://i.mjh.nz/PlutoTV/15ddd7cb2cbb9010009b4fe32-alt.m3u8
+#EXTINF:0,NICK JR. 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092580
+#EXTINF:0,DISNEY CHANNEL
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123481
 #EXTINF:0, LAS PISTAS DE BLUE
 https://i.mjh.nz/PlutoTV/15f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:0, BABY SHARK TV
@@ -1004,3 +1088,396 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:0, CO TELEPACIFICO 
 #EXTVLCOPT:network-caching=1000
 http://1tv41.icu:8080/Py5zFZ/363334/78729
+#EXTINF:0,TELEMUNDO INTERNACIONAL 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2094330
+#EXTINF:0,TLC
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2095400
+#EXTINF:0,TL NOVELAS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092576
+#EXTINF:0,VENEVISION
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2095411
+#EXTINF:0,FOOD NETWORK
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123484
+#EXTINF:0,TELEMUNDO INTERNACIONAL
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123480
+#EXTINF:0,24/7 :CINE ACCION
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090917
+#EXTINF:0,24/7 :CINE ACCION SAGAS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090918
+#EXTINF:0,24/7 :CINE SAGAS INFANTIL
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090919
+#EXTINF:0,24/7 Cantinflas 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090937
+#EXTINF:0,24/7 Capitan America y Los Planetarios
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090954
+#EXTINF:0,24/7 Caso Cerrado 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/189868
+#EXTINF:0,24/7 Chespirito
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090979
+#EXTINF:0,24/7 Clasicos de Disney (Latino)
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090938
+#EXTINF:0,24/7 DAVE Y EVA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091358
+#EXTINF:0,24/7 Disney Live Action
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090939
+#EXTINF:0,24/7 Donde esta Wally
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090955
+#EXTINF:0,24/7 Dragon Ball Freezer
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133668
+#EXTINF:0,24/7 El Auto Fantastico
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090982
+#EXTINF:0,24/7 El Gallo Claudio
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090957
+#EXTINF:0,24/7 Fenomenoide
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090958
+#EXTINF:0,24/7 Friends
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/223069
+#EXTINF:0,24/7 Game of Thrones
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133344
+#EXTINF:0,24/7 Garfield
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090963
+#EXTINF:0,24/7 Gargolas Heroes Goticos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090964
+#EXTINF:0,24/7 Gasparin y sus Amigos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090965
+#EXTINF:0,24/7 Halcones Galacticos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090966
+#EXTINF:0,24/7 Halo
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133343
+#EXTINF:0,24/7 Hannah Montana
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090904
+#EXTINF:0,24/7 Harry Potter & Animales Fantásticos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2106722
+#EXTINF:0,24/7 Heidi
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090967
+#EXTINF:0,24/7 Hercules 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090983
+#EXTINF:0,24/7 Hey Arnold
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090905
+#EXTINF:0,24/7 Hormiga Atomica
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133592
+#EXTINF:0,24/7 La casa de los Dibujos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091492
+#EXTINF:0,24/7 La Casa de Papel Corea
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133346
+#EXTINF:0,24/7 La Familia P. Luche 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/200378
+#EXTINF:0,24/7 La Rosa de Guadalupe
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/180593
+#EXTINF:0,24/7 Las Pistas de Blue
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090906
+#EXTINF:0,24/7 Las Tortugas Ninja
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090968
+#EXTINF:0,24/7 Los Años Maravillosos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090984
+#EXTINF:0,24/7 Los Backyardigans
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090907
+#EXTINF:0,24/7 Los Castores Cascarrabias
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090908
+#EXTINF:0,24/7 Los Muppet Babys
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090910
+#EXTINF:0,24/7 Los Padrinos Magicos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090909
+#EXTINF:0,24/7 Los Supersonicos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090990
+#EXTINF:0,24/7 MARVEL
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090921
+#EXTINF:0,24/7 Marvel Saga Infinito
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133201
+#EXTINF:0,24/7 Mi Pequeño Pony
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090911
+#EXTINF:0,24/7 Movies Jim Carrey
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090941
+#EXTINF:0,24/7 M| Cinema 01
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210808
+#EXTINF:0,24/7 M| Cinema 02
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210809
+#EXTINF:0,24/7 M| Cinema 03
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210810
+#EXTINF:0,24/7 M| Cinema 05
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210812
+#EXTINF:0,24/7 M| Cinema 06
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210813
+#EXTINF:0,24/7 M| Cinema 07
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210814
+#EXTINF:0,24/7 M| Cinema 08
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210815
+#EXTINF:0,24/7 M| Cinema 09
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210816
+#EXTINF:0,24/7 M| Cinema 10
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210817
+#EXTINF:0,24/7 M| Cinema 11
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210818
+#EXTINF:0,24/7 M| Cinema 12
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210819
+#EXTINF:0,24/7 M| Cinema 13
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210820
+#EXTINF:0,24/7 M| Cinema 14
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210821
+#EXTINF:0,24/7 M| Cinema 15
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210822
+#EXTINF:0,24/7 M| Cinema 16
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210823
+#EXTINF:0,24/7 M| Cinema 17
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210824
+#EXTINF:0,24/7 M| Cinema 18
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210825
+#EXTINF:0,24/7 M| Cinema 19
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210826
+#EXTINF:0,24/7 M| Cinema 20
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210827
+#EXTINF:0,24/7 M| Cinema 21
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210828
+#EXTINF:0,24/7 M| Cinema 22
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210829
+#EXTINF:0,24/7 M| Cinema 23
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210830
+#EXTINF:0,24/7 M| Cinema 24
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210831
+#EXTINF:0,24/7 M| Cinema 25
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210832
+#EXTINF:0,24/7 M|Moviecenter Premium Oeste http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/186335
+#EXTINF:0,24/7 M|Peliculas Marvel
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/177987
+#EXTINF:0,24/7 M|Películas Drama
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/203983
+#EXTINF:0,24/7 M|Películas Fantasía
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/203984
+#EXTINF:0,24/7 NARCOS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090920
+#EXTINF:0,24/7 Padre de familia
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091023
+#EXTINF:0,24/7 Paw Patroll
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090912
+#EXTINF:0,24/7 PELICULAS ESTRENOS 2022
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133347
+#EXTINF:0,24/7 Pocoyo
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090913
+#EXTINF:0,24/7 Scooby Doo
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090914
+#EXTINF:0,24/7 Shark Thank
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133765
+#EXTINF:0,24/7 Super Agente 86
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133394
+#EXTINF:0,24/7 S| Alerta Aeropuerto
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/203977
+#EXTINF:0,24/7 The Flash
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2133349
+#EXTINF:0,24/7 Timon y Pumbaa
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090916
+#EXTINF:0,24/7 Tiroloco
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2131773
+#EXTINF:0,24/7 Tom Y Jerry
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090915
+#EXTINF:0,24/7 Vecinos 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/189870
+#EXTINF:0,24/7 Walker Texas Ranger
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090985
+#EXTINF:0,24/7 Xena La Princesa Guerrera Temp 1
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090986
+#EXTINF:0,24/7 | Aaahhh Monstruos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090870
+#EXTINF:0,24/7 | Acapulco Shore FHD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090991
+#EXTINF:0,24/7 | Alf
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090973
+#EXTINF:0,24/7 | Animaniacs
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090871
+#EXTINF:0,24/7 | Bleyblade
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090872
+#EXTINF:0,24/7 | Bob Esponja
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090873
+#EXTINF:0,24/7 | Buzz Lightyear
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090874
+#EXTINF:0,24/7 | Castores Cascarravias
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090875
+#EXTINF:0,24/7 | Cat Dog
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090876
+#EXTINF:0,24/7 | Como Dice El Dicho
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090993
+#EXTINF:0,24/7 | Coraje El Perro Cobarde
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090877
+#EXTINF:0,24/7 | CSI Miami
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090994
+#EXTINF:0,24/7 | Death Note
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090995
+#EXTINF:0,24/7 | Desafío de fuego
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090992
+#EXTINF:0,24/7 | DesEncanto
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090996
+#EXTINF:0,24/7 | Digimon
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090878
+#EXTINF:0,24/7 | Dinosaurios
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090879
+#EXTINF:0,24/7 | DON GATO Y SU PANDILLA
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090953
+#EXTINF:0,24/7 | Dora la Exploradora
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090880
+#EXTINF:0,24/7 | Dr. House
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090997
+#EXTINF:0,24/7 | Dragon Ball
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090998
+#EXTINF:0,24/7 | Dragon Ball Super 1
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090999
+#EXTINF:0,24/7 | Dragon Ball Super 2
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091000
+#EXTINF:0,24/7 | Dragon Ball Z Saga Cell
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091001
+#EXTINF:0,24/7 | El Chapulin Colorado
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090974
+#EXTINF:0,24/7 | El Chavo Animado
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090881
+#EXTINF:0,24/7 | El Chavo del 8
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090975
+#EXTINF:0,24/7 | El Coyote y el Correcaminos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090952
+#EXTINF:0,24/7 | El Laboratorio de Dexter
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090882
+#EXTINF:0,24/7 | El Mentalista
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091002
+#EXTINF:0,24/7 | El Mundo de Beakman
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090883
+#EXTINF:0,24/7 | El Pajaro Loco
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090884
+#EXTINF:0,24/7 | El Principe del Rap
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091003
+#EXTINF:0,24/7 | El show de los Looney Tunes
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090899
+#EXTINF:0,24/7 | En Familia con Chabelo
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090885
+#EXTINF:0,24/7 | Escandalosos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090886
+#EXTINF:0,24/7 | Escobar: el patron del mal
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091004
+#EXTINF:0,24/7 | Extranormal
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091005
+#EXTINF:0,24/7 | Futurama
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091006
+#EXTINF:0,24/7 | GRAVITY FALL
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090903
+#EXTINF:0,24/7 | Hechizada
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090976
+#EXTINF:0,24/7 | Jimmy Neutron
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090887
+#EXTINF:0,24/7 | Johnny Bravo
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090888
+#EXTINF:0,24/7 | Juego del Calamar
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091008
+#EXTINF:0,24/7 | La Casa de Micky Mouse
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090889
+#EXTINF:0,24/7 | La Casa de Papel
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091009
+#EXTINF:0,24/7 | La Familia Peluche
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091010
+#EXTINF:0,24/7 | La Hora Pico
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091011
+#EXTINF:0,24/7 | La Ninera
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090977
+#EXTINF:0,24/7 | La Pantera Rosa
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090971
+#EXTINF:0,24/7 | La Rosa de Guadalupe
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091012
+#EXTINF:0,24/7 | Ladybug
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090890
+#EXTINF:0,24/7 | Le Temes a la Oscuridad
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090972
+#EXTINF:0,24/7 | Los Gatos Samurai
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090891
+#EXTINF:0,24/7 | Los Picapiedra
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090989
+#EXTINF:0,24/7 | Los Simpson
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091013
+#EXTINF:0,24/7 | Los Simpson HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091014
+#EXTINF:0,24/7 | Los Simpson New HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091015
+#EXTINF:0,24/7 | Los Simpsons Casitas del Horror
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091016
+#EXTINF:0,24/7 | Los Thundercats
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090987
+#EXTINF:0,24/7 | MASHA Y EL OSO
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091359
+#EXTINF:0,24/7 | Mr Bean
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090988
+#EXTINF:0,24/7 | Peppa Pig
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090892
+#EXTINF:0,24/7 | Phineas y Ferb
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090893
+#EXTINF:0,24/7 | Pokemon
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090894
+#EXTINF:0,24/7 | Power Rangers 
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090895
+#EXTINF:0,24/7 | Rick y Morty
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091020
+#EXTINF:0,24/7 | Sailor Moon Crystal
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090900
+#EXTINF:0,24/7 | South Park
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091021
+#EXTINF:0,24/7 | Teen Titans Go
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090896
+#EXTINF:0,24/7 | The Big Bang Theory
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091018
+#EXTINF:0,24/7 | The Walking Dead
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091019
+#EXTINF:0,24/7 | Vaca y Pollito
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090897
+#EXTINF:0,24/7 | Yu Gi Oh
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090898
+#EXTINF:0,24/7:  xmen
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090962
+#EXTINF:0,24/7: CINE ACCION HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090923
+#EXTINF:0,24/7: CINE COMEDIA 1
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090924
+#EXTINF:0,24/7: CINE COMEDIA 2
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090925
+#EXTINF:0,24/7: CINE FANTASIA 2
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090926
+#EXTINF:0,24/7: CINE FANTASIA HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090927
+#EXTINF:0,24/7: CINE FANTASIA SAGAS
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090928
+#EXTINF:0,24/7: CINE INFANTIL HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090930
+#EXTINF:0,24/7: CINE ROMANCE
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090931
+#EXTINF:0,24/7: CINE ROMANCE HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090932
+#EXTINF:0,24/7: CINE TERROR
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090933
+#EXTINF:0,24/7: CINE TERROR HD
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090934
+#EXTINF:0,24/7: CINE ZOMBIES
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090935
+#EXTINF:0,24/7: El chapuli­n colorado
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090980
+#EXTINF:0,24/7: El chavo del 8
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091028
+#EXTINF:0,24/7: he man
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090961
+#EXTINF:0,24/7: Los locos Addams
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090981
+#EXTINF:0,24/7: Malcolm
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091027
+#EXTINF:0,24/7: Mazingerz
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090956
+#EXTINF:0,24/7: naruto
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090902
+#EXTINF:0,24/7: peliculas estrenos
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090936
+#EXTINF:0,24/7 | Pinky y Cerebro (B)
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090901
+#EXTINF:0,24/7: robotech
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090959
+#EXTINF:0,24/7: shera
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090969
+#EXTINF:0,24/7: Smallville
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091024
+#EXTINF:0,24/7: South Park
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091026
+#EXTINF:0,24/7: Spiderman
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090970
+#EXTINF:0,24/7: Strangerthings
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2091025
+#EXTINF:0,24/7: Super campeones
+http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2090960
