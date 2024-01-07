@@ -2,6 +2,9 @@
 #EXTINF:36,GEN TV
 #EXTVLCOPT:network-caching=1000
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:48,NEO TV
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:30, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -208,9 +211,6 @@ http://138.59.177.34:8000/play/a02c/index.m3u8
 #EXTINF:78,NEOX TV
 #EXTVLCOPT:network-caching=1000
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:48,NEO TV
-#EXTVLCOPT:network-caching=1000
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:24,QUANTICA TV
 #EXTVLCOPT:network-caching=1000
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
