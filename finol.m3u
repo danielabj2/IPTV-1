@@ -89,6 +89,26 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:0,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:0,FAMILY TV
+https://livestreamhd.us/familytv/live/chunks.m3u8
+#EXTINF:0,IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:0,EL PITUCO TV
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:0,BERNABE TV
+https://castv10.plugstreaming.com:19360/el75/el75.m3u8
+#EXTINF:0,MULTIVISION 24
+https://5790d294af2dc.streamlock.net/multivision/multivision/chunklist_w1842194455.m3u8
+#EXTINF:0,DELTA TV
+https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+#EXTINF:0,CROM TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:0,CITRICO TV
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+#EXTINF:0,LA CALETA TV
+https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+#EXTINF:0,BELLAVISION
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:25, HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03s/index.m3u8
