@@ -494,16 +494,16 @@ http://138.59.177.34:8000/play/a02i/index.m3u8
 #EXTINF:11, MTV DE LOS 80
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a02j/index.m3u8
+#EXTINF:29,BACK TO THE 80
+https://s1.reliastream.com/proxy/hothitz80s?mp=/stream/
+#EXTINF:29,80 CENTRAL
+https://streaming.live365.com/a97972
 #EXTINF:11, MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a04b/index.m3u8
 #EXTINF:29, OLDIES HITS TV
 #EXTVLCOPT:network-caching=1000
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
-#EXTINF:29,BACK TO THE 80
-https://s1.reliastream.com/proxy/hothitz80s?mp=/stream/
-#EXTINF:29,80 CENTRAL
-https://streaming.live365.com/a97972
 #EXTINF:0, PLUTO TV CINE ESTELAR
 https://i.mjh.nz/PlutoTV/15dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:0, PLUTO TV CINE ACCION
