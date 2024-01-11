@@ -109,6 +109,12 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 #EXTINF:0,BELLAVISION
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:0,TELEMAX HD
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+#EXTINF:0,GLOBAL SOCIAL TV
+https://ss9.domint.net:3042/gstv_str/globalsocialtv/chunklist_w1292252289.m3u8
+#EXTINF:0,LEÑA RADIO TV
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:25, HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03s/index.m3u8
@@ -494,6 +500,10 @@ http://138.59.177.34:8000/play/a04b/index.m3u8
 #EXTINF:29, OLDIES HITS TV
 #EXTVLCOPT:network-caching=1000
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:29,BACK TO THE 80
+https://s1.reliastream.com/proxy/hothitz80s?mp=/stream/
+#EXTINF:29,80 CENTRAL
+https://streaming.live365.com/a97972
 #EXTINF:0, PLUTO TV CINE ESTELAR
 https://i.mjh.nz/PlutoTV/15dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:0, PLUTO TV CINE ACCION
