@@ -99,6 +99,8 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 https://castv10.plugstreaming.com:19360/el75/el75.m3u8
 #EXTINF:0,MULTIVISION 24
 https://5790d294af2dc.streamlock.net/multivision/multivision/chunklist_w1842194455.m3u8
+#EXTINF:0,MULTIVISION ARG
+https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:0,DELTA TV
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 #EXTINF:0,CROM TV
@@ -118,7 +120,7 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:25, HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:23, HBO2 HD
+#EXTINF:23, HBO 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:11, HBO FAMILY
