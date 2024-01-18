@@ -227,10 +227,6 @@ http://190.90.154.73:8080/play/a090/index.m3u8
 http://190.90.154.73:8080/play/a092/index.m3u8
 #EXTINF:-1,MEGA HD
 http://190.90.154.73:8080/play/a03a/index.m3u8
-#EXTINF:-1,MTV 00s
-http://190.90.154.73:8080/play/a020/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://190.90.154.73:8080/play/a02r/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://190.90.154.73:8080/play/a03b/index.m3u8
 #EXTINF:-1,Nick HD
@@ -629,6 +625,10 @@ https://streaming.live365.com/a97972
 #EXTINF:11, MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a04b/index.m3u8
+#EXTINF:-1,MTV 00s
+http://190.90.154.73:8080/play/a020/index.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://190.90.154.73:8080/play/a02r/index.m3u8
 #EXTINF:29, OLDIES HITS TV
 #EXTVLCOPT:network-caching=1000
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
