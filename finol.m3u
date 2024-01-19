@@ -1118,6 +1118,97 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1,Diema Sport HD
+http://31.41.21.44:7997/play/a00z/index.m3u8
+#EXTINF:-1,MaxSport 1 HD
+http://31.41.21.44:7997/play/a014/index.m3u8
+#EXTINF:-1,MaxSport 4 HD
+http://31.41.21.44:7997/play/a01c/index.m3u8
+#EXTINF:-1,Nova Sport
+http://31.41.21.44:7997/play/a029/index.m3u8
+#EXTINF:-1,Ring HD
+http://31.41.21.44:7997/play/a00n/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://181.119.66.30:8000/play/a03q/index.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1,AutoMotorSport HD
+http://78.130.250.2:8023/play/a018/index.m3u8
+#EXTINF:-1,CANAL+ Sport (CZ)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1,CANAL+ Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1,Nova Sport 1 HD
+http://78.130.250.2:8023/play/a009/index.m3u8
+#EXTINF:-1,Nova Sport 1 HD au
+http://78.130.250.2:8023/play/a02k/index.m3u8
+#EXTINF:-1,Nova Sport 2 HD
+http://78.130.250.2:8023/play/a004/index.m3u8
+#EXTINF:-1,FOX Sports 1 HD
+http://181.119.66.30:8000/play/a05k/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://181.119.66.30:8000/play/a04d/index.m3u8
+#EXTINF:-1,FOX Sports 3 HD
+http://181.119.66.30:8000/play/a040/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.119.66.30:8000/play/a05i/index.m3u8
+#EXTINF:-1,ESPN 2 HD 1
+http://181.119.66.30:8000/play/a041/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.119.66.30:8000/play/a03z/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.119.66.30:8000/play/a04c/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://181.119.66.30:8000/play/a04m/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.119.66.30:8000/play/a03t/index.m3u8
+#EXTINF:-1,ESPN HD 2
+http://181.119.66.30:8000/play/a05j/index.m3u8
+#EXTINF:-1,ESPN
+http://190.61.46.126:8000/play/a00b/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.61.46.126:8000/play/a00s/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.61.46.126:8000/play/a00y/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.61.46.126:8000/play/a01a/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.61.46.126:8000/play/a01m/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.61.46.126:8000/play/a00u/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://179.1.102.50:1044/play/a04p/index.m3u8
+#EXTINF:-1,ESPN CO
+http://179.1.102.50:1044/play/a06j/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.1.102.50:1044/play/a04r/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.53.153.225:8000/play/a01v/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://177.53.153.225:8000/play/a02q/index.m3u8
+#EXTINF:-1,ESPN + HD
+http://177.53.153.225:8000/play/a058/index.m3u8
+#EXTINF:-1,FOX Sports 1 HD
+http://179.1.102.50:1044/play/a04l/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://179.1.102.50:1044/play/a04q/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://190.61.46.126:8000/play/a03q/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://190.61.46.126:8000/play/a00z/index.m3u8
+#EXTINF:-1,Fox Sports HD
+http://177.53.153.225:8000/play/a04l/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://177.53.153.225:8000/play/a039/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://177.53.153.225:8000/play/a02r/index.m3u8
+#EXTINF:-1,LIGA 1 MAX HD
+http://177.53.153.225:8000/play/a00p/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://177.53.153.225:8000/play/a048/index.m3u8
+#EXTINF:-1,Win Sports HD
+http://190.61.46.126:8000/play/a00r/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://190.61.46.126:8000/play/a01u/index.m3u8
 
 
