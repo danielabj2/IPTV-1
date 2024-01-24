@@ -127,6 +127,28 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:0,LAPACHO TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:0,ESTACION RETRO
+https://rpn3.bozztv.com/ssh101/ssh101/canalonline/chunks.m3u8
+#EXTINF:0,CANAL REX
+https://ssh101.bozztv.com/ssh101/elcanalrex/chunks.m3u8
+#EXTINF:0,FRECUENCIA MUSICAL
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0,FRECUENCIA MUSICAL OP2
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:0,MEMORIAS CLASSIC
+https://ssh101.bozztv.com/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:0,GOGOPLAY
+https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+#EXTINF:0,CONECTATE TV
+https://250weu.bozztv.com/ssh101/ssh101/conectatetvpr/playlist.m3u8
+#EXTINF:0,CHILEPLAY TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:0,CHILEVISUAL RETRO
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:0,WOW MOVIES
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:0,TELECLASICA
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:25, HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a03s/index.m3u8
@@ -389,12 +411,18 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:46, ANIME STATION
 #EXTVLCOPT:network-caching=1000
 https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/chunks.m3u8
+#EXTINF:46,TOONIZAKI
+#EXTVLCOPT:network-caching=1000
+https://live.admefy.com/live/default/definite_gray_4cd9d.m3u8
 #EXTINF:40, LOCOMOTION
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:29, LATINO KIDS TV
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:29, BIG CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:135, ZAZ TV
 #EXTVLCOPT:network-caching=1000
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -469,6 +497,9 @@ http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/210865
 #EXTINF:31, CANAL DE LA CIUDAD
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:31, VIDEO CLUB
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:30, CANAL 26
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
@@ -569,6 +600,8 @@ http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123473
 http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/219210
 #EXTINF:0,DIRECTV SPORTS 2
 http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2123474
+#EXTINF:0,DIRECTV SPORTS 2
+http://pe.shortgod.com/volvimos2024/tv7.php?id=468
 #EXTINF:-1,TNT SPORTS CHI HD
 http://181.119.66.30:8000/play/a03q/index.m3u8
 #EXTINF:0,BEIN SPORTS
@@ -672,6 +705,9 @@ http://190.90.154.73:8080/play/a02r/index.m3u8
 #EXTINF:29, OLDIES HITS TV
 #EXTVLCOPT:network-caching=1000
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:29, POP TV
+#EXTVLCOPT:network-caching=1000
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:30, RECUERDOS RETRO RADIO TV | CL
 #EXTVLCOPT:network-caching=1000
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
