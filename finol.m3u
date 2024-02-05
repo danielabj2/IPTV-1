@@ -404,7 +404,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:46, MAGIC KIDS
 #EXTVLCOPT:network-caching=1000
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:46, RETRO MAGICO
 #EXTVLCOPT:network-caching=1000
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
