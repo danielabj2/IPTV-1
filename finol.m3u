@@ -23,15 +23,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:48,CANAL 8
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3u8
-#EXTINF:48,TELEMIX
-#EXTVLCOPT:network-caching=1000
-https://panel.dattalive.com/8068/8068/playlist.m3u8
-#EXTINF:48,CANAL 10 MAR DEL PLATA
-#EXTVLCOPT:network-caching=1000
-https://g1.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_540p.m3u8
-#EXTINF:48,TELECREATIVA
-#EXTVLCOPT:network-caching=1000
-https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:30, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
