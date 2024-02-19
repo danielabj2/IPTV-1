@@ -636,6 +636,8 @@ http://177.53.153.225:8000/play/a01v/index.m3u8
 http://177.53.153.225:8000/play/a02q/index.m3u8
 #EXTINF:-1,ESPN + HD
 http://177.53.153.225:8000/play/a058/index.m3u8
+#EXTINF:-1,ESPN PREMIUN
+http://181.78.77.118:8000/play/a0ub/index.m3u8
 #EXTINF:-1,FOX Sports 1 HD
 http://181.119.66.30:8000/play/a05k/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
