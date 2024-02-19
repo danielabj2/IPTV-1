@@ -78,7 +78,7 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:0,GTV
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 #EXTINF:0,EQUIPULAS TV
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 #EXTINF:0,TELE GROBO
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
 #EXTINF:0,TOTO VISION
@@ -95,12 +95,8 @@ https://livestreamhd.us/familytv/live/chunks.m3u8
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:0,EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:0,BERNABE TV
-https://castv10.plugstreaming.com:19360/el75/el75.m3u8
-#EXTINF:0,MULTIVISION 24
-https://5790d294af2dc.streamlock.net/multivision/multivision/chunklist_w1842194455.m3u8
 #EXTINF:0,MULTIVISION ARG
-https://panel.dattalive.com/8250/8250/playlist.m3u8
+https://panel.dattalive.com/8250/8250/chunklist_w1169619889.m3u8
 #EXTINF:0,DELTA TV
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 #EXTINF:0,CROM TV
@@ -119,8 +115,6 @@ https://ss9.domint.net:3042/gstv_str/globalsocialtv/chunklist_w1292252289.m3u8
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:0,PANC TV
 https://stream.trixserver.com:3088/live/uv096live.m3u8
-#EXTINF:0,CALCHAQUI TV
-https://stream.trixserver.com:3836/live/uv068live.m3u8
 #EXTINF:0,GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0,COSMOS TV
@@ -129,8 +123,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:0,ESTACION RETRO
 https://rpn3.bozztv.com/ssh101/ssh101/canalonline/chunks.m3u8
-#EXTINF:0,CANAL REX
-https://ssh101.bozztv.com/ssh101/elcanalrex/chunks.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL OP2
@@ -139,8 +131,6 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://ssh101.bozztv.com/ssh101/memoriasc2/playlist.m3u8
 #EXTINF:0,GOGOPLAY
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:0,CONECTATE TV
-https://250weu.bozztv.com/ssh101/ssh101/conectatetvpr/playlist.m3u8
 #EXTINF:0,CHILEPLAY TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:0,CHILEVISUAL RETRO
@@ -149,35 +139,18 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:0,TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:25, HBO HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:23, HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:11, HBO FAMILY
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a01p/index.m3u8
 #EXTINF:11, HBO PLUS
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a01o/index.m3u8
-#EXTINF:26, HBO PLUS HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:11, HBO XTREME
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF:26, HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:11,CINE AR
 #EXTVLCOPT:network-caching=1000
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1771389624.m3u8
-#EXTINF:11,SONY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://160.20.165.245:8000/play/a00o/index.m3u8
-#EXTINF:0,SONY
-http://185.155.103.50:8080/Art3008/g8CuVnhtd6zQ/2092579
 #EXTINF:0, TIGUERITOS TV
 #EXTVLCOPT:network-caching=1000
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -303,12 +276,6 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1272120785.m3u8
 #EXTINF:120, FREE TV
 #EXTVLCOPT:network-caching=1000
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:30, CINE ACCION
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:31, CINE SUSPENSO
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:60, CINE REAL
 #EXTVLCOPT:network-caching=1000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
@@ -327,12 +294,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/610
 #EXTINF:60, JUNTOS
 #EXTVLCOPT:network-caching=1000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
-#EXTINF:28, SOLIVE TV
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:54, CHIQUILINES
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
 #EXTINF:35, MY TIME MOVIES 1
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -390,15 +351,6 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:30,AZM TV
 #EXTVLCOPT:network-caching=100
 https://live.canalnueve.tv/index.m3u8
-#EXTINF:28, XTREMA ANIME
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:46, XTREMA ANIME
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1281305084.m3u8
-#EXTINF:46, ESPORTS MAX TV
-#EXTVLCOPT:network-caching=1000
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:29, EL CHAVO
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
@@ -637,8 +589,6 @@ http://177.53.153.225:8000/play/a02q/index.m3u8
 #EXTINF:-1,ESPN + HD
 http://177.53.153.225:8000/play/a058/index.m3u8
 #EXTINF:-1,ESPN PREMIUN
-http://181.78.77.118:8000/play/a0ub/index.m3u8
-#EXTINF:-1,FOX Sports 1 HD
 http://181.119.66.30:8000/play/a05k/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://181.119.66.30:8000/play/a04d/index.m3u8
