@@ -11,18 +11,24 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/chunklist_w1000655006.m3u
 #EXTINF:48,SPTV
 #EXTVLCOPT:network-caching=1000
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-#EXTINF:48,CANAL 5TV
-#EXTVLCOPT:network-caching=1000
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:48,PARES TV
-#EXTVLCOPT:network-caching=1000
-https://live-ak.vimeocdn.com/exp=1708372880~acl=%2Face6794a-7ea0-4e38-92eb-509f9130fc3f%2F%2A~hmac=67a15d414c2ad168570136ad675b178a40122ab5e84e74a8c10a7b76e0887c92/ace6794a-7ea0-4e38-92eb-509f9130fc3f/chunklist_b416000.m3u8
 #EXTINF:48,BAYRES TV
 #EXTVLCOPT:network-caching=1000
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:48,CANAL 8
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3u8
+#EXTINF:48,MEMORIAS TV
+#EXTVLCOPT:network-caching=1000
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w1905538415.m3u8
+#EXTINF:48,MEMORIAS TV CLASSIC
+#EXTVLCOPT:network-caching=1000
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/chunks.m3u8
+#EXTINF:48,MEMORIAS TV FILM
+#EXTVLCOPT:network-caching=1000
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/chunks.m3u8
+#EXTINF:48,MEMORIAS TV SERIES
+#EXTVLCOPT:network-caching=1000
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/chunks.m3u8
 #EXTINF:30, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
