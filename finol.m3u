@@ -28,7 +28,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/chunks.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/chunks.m3u8
 #EXTINF:48,MEMORIAS TV SERIES
 #EXTVLCOPT:network-caching=1000
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/chunks.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/chunks.m3u8
 #EXTINF:30, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
