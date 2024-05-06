@@ -7,20 +7,28 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 ,NEO TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
+#EXTINF:-1,NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:108, AMERICA TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:108, TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+#EXTINF:108, 13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:64, TyC SPORTS
 #EXTVLCOPT:network-caching=1000
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1,VORTERIX
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+#EXTINF:-1,VORTERIX
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:30, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -42,22 +50,40 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:48,CANAL 10 NORTE VISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:48,CANAL 10 JUNIN
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+#EXTINF:48,CANAL 11 LA COSTA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8 
+#EXTINF:48,SANTA TERESITA
+https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
 #EXTINF:48,CANAL 12 PUERTO MADRYN
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:48,CANAL 13 LA RIOJA
 http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:48,CANAL 40
+https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:48,LIM TV
 #EXTVLCOPT:network-caching=1000
 https://5790d294af2dc.streamlock.net/limtv/limtv/chunklist.m3u8
+EXTINF:48,LA VOZ TUCUMAN
+#EXTVLCOPT:network-caching=1000
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+EXTINF:48,METRO TV
+#EXTVLCOPT:network-caching=1000
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:48,TELERED
 #EXTVLCOPT:network-caching=1000
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:48,TDC
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0376
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:48,CINCO TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:48,ZONDA TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0359
 #EXTINF:48,COSMOS TV
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w663542552.m3u8
+#EXTINF:48,COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:48,NAGOYA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0264
 #EXTINF:48,QUATRO TV
@@ -165,6 +191,8 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:0,GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0,CIUDAD MAGAZINE
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:0,COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:0,LAPACHO TV
@@ -372,6 +400,9 @@ https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w890384982.m3u8
 #EXTINF:108, DEPORTV
 #EXTVLCOPT:network-caching=1000
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1944932080.m3u8
+#EXTINF:108, DEPORTV
+#EXTVLCOPT:network-caching=1000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:64, TyC SPORTS
 #EXTVLCOPT:network-caching=1000
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
