@@ -15,18 +15,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:108, AMERICA TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:108, TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-#EXTINF:108, 13 MAX
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:64, TyC SPORTS
 #EXTVLCOPT:network-caching=1000
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1,VORTERIX
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:30, PLANETA TV MOVIES
@@ -43,6 +37,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0186
 #EXTINF:48,BAYRES TV
 #EXTVLCOPT:network-caching=1000
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:48,PILAR TV
+#EXTVLCOPT:network-caching=1000
+https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
+#EXTINF:48,CINE STAR
+#EXTVLCOPT:network-caching=1000
+https://ssh101-fl.bozztv.com/ssh101/cinestarteve/tracks-v1a1/mono.m3u8
+#EXTINF:48,COMUNICACIONES JIMENEZ
+https://ssh101-fl.bozztv.com/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 #EXTINF:48,CANAL 8
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3u8
@@ -50,10 +52,6 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:48,CANAL 10 NORTE VISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-#EXTINF:48,CANAL 10 JUNIN
-https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-#EXTINF:48,CANAL 11 LA COSTA
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8 
 #EXTINF:48,SANTA TERESITA
 https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
 #EXTINF:48,CANAL 12 PUERTO MADRYN
@@ -65,6 +63,10 @@ https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:48,LIM TV
 #EXTVLCOPT:network-caching=1000
 https://5790d294af2dc.streamlock.net/limtv/limtv/chunklist.m3u8
+#EXTINF:48,DIDI TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
+#EXTINF:108, 13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 EXTINF:48,LA VOZ TUCUMAN
 #EXTVLCOPT:network-caching=1000
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
@@ -144,9 +146,11 @@ https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:30, RETROXTV
 #EXTVLCOPT:network-caching=1000
-https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL BARBE
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:0,TICKTV
+https://ssh101-fl.bozztv.com/ssh101/ticktv/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:0,CNI DIGITAL
@@ -198,7 +202,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:0,LAPACHO TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:0,ESTACION RETRO
-https://rpn3.bozztv.com/ssh101/ssh101/canalonline/chunks.m3u8
+https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL OP2
@@ -338,15 +342,19 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:46, RETRO MAGICO
 #EXTVLCOPT:network-caching=1000
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:46, ANIME STATION
+#EXTINF:46,TV TOONS
+https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
+#EXTINF:40, ANIMESTATION TV
 #EXTVLCOPT:network-caching=1000
-https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/chunks.m3u8
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:40,TALTALTV
+https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 #EXTINF:40, LOCOMOTION
 #EXTVLCOPT:network-caching=1000
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:29, LATINO KIDS TV
 #EXTVLCOPT:network-caching=1000
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 #EXTINF:29, BIG CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
@@ -484,6 +492,9 @@ http://138.59.177.34:8000/play/a06k/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a02i/index.m3u8
 #EXTINF:11, MTV DE LOS 80
+#EXTINF:11, RETRO MUSIC
+#EXTVLCOPT:network-caching=1000
+https://ssh101-fl.bozztv.com/ssh101/retroiptv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a02j/index.m3u8
 #EXTINF:29,BACK TO THE 80
@@ -580,6 +591,8 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:30, LA VOZ TV TUCUMAN
 #EXTVLCOPT:network-caching=1000
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+#EXTINF:30,CANAL 88
+https://ssh101-fl.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:0, CANAL 12 TUCUMAN
 #EXTVLCOPT:network-caching=1000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
