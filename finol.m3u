@@ -23,9 +23,6 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
-#EXTINF:30, PLANETA TV MOVIES
-#EXTVLCOPT:network-caching=1000
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:48,CHILEVISUAL FILM
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w2000869191.m3u8
 #EXTINF:48,SPTV
@@ -120,15 +117,9 @@ https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w1681993583.m3u8
 #EXTINF:48,MEMORIAS TV SERIES
 #EXTVLCOPT:network-caching=1000
 https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/chunklist_w6010213.m3u8
-#EXTINF:30, PLANETA TV MOVIES
+#EXTINF:30, PLANETA TV 
 #EXTVLCOPT:network-caching=1000
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:30, PLANETA TV FAMILY
-#EXTVLCOPT:network-caching=1000
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w814070351.m3u8
-#EXTINF:30, PLANETA TV MUSIC
-#EXTVLCOPT:network-caching=1000
-https://scl.edge.grupoz.cl/music/live/chunklist_w2063157537.m3u8
+https://stream.skarnetchile.com:19360/planeta-tv/planeta-tv.m3u8
 #EXTINF:30, CIUDAD MAGICA TV
 #EXTVLCOPT:network-caching=1000
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
