@@ -16,20 +16,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:108, TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-#EXTINF:64, TyC SPORTS
-#EXTVLCOPT:network-caching=1000
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:64, TyC SPORTS
-#EXTVLCOPT:network-caching=1000
-https://ddy6.mizhls.ru/ddy6/premium746/tracks-v1a1/mono.m3u8
-#EXTINF:64, TyC SPORTS
-#EXTVLCOPT:network-caching=1000
-https://ddy6.mizhls.ru/ddy6/premium746/playlist.m3u8
-#EXTINF:64, TyC SPORTS
-#EXTVLCOPT:network-caching=1000
-https://webhdrunns.mizhls.ru/lb/premium746/index.m3u8
 #EXTINF:64, TyC SPORTS 2
-https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8  tyc sports 2
+https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:48,CANAL 10 CR
