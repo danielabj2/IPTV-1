@@ -10,6 +10,9 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+#EXTINF:24, EL TRECE
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -60,9 +63,6 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 #EXTINF:108, DEPORTV
 #EXTVLCOPT:network-caching=1000
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1944932080.m3u8
-#EXTINF:108, DEPORTV
-#EXTVLCOPT:network-caching=1000
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:48,CANAL 10 CR
@@ -285,6 +285,8 @@ https://videohd.live:19360/8016/8016.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:46,TV TOONS
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
+#EXTINF:46,LOCOMOTION
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:40, ANIMESTATION TV
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
