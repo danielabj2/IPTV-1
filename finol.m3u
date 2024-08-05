@@ -227,6 +227,12 @@ https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:29,BOLIVAR TV
 #EXTVLCOPT:network-caching=1000
 https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
+#EXTINF:29,TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:29,ANTEQUERA
+https://www.streaming101tv.es:19360/antequera/antequera.m3u8
+#EXTINF:29,AGENDA AL DIA
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:78,TELECINCO TRELEW
 #EXTVLCOPT:network-caching=1000
 https://videohd.live:19360/8016/8016.m3u8
@@ -235,6 +241,8 @@ https://videohd.live:19360/8016/8016.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:46,LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:40,ANIMESTATION
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:40,TALTALTV
 https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 #EXTINF:29, BIG CHANNEL
@@ -271,6 +279,10 @@ http://45.166.92.22:58001/play/a01q/index.m3u8
 #EXTINF:24, TN 24
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:24,MTV 80s
+https://a5.pokaz.me/gDtozPWuJxnzxFtcCqx7uQ/174/1722918477/index.m3u8
+#EXTINF:24,MTV 00s
+https://a5.pokaz.me/fGepGwZnm8IwBjXzPGUXdA/175/1722918582/index.m3u8
 #EXTINF:23, MEGA 98.3
 #EXTVLCOPT:network-caching=1000
 https://mega983.stweb.tv/mega983/live/chunks.m3u8
