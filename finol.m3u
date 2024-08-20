@@ -16,6 +16,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:108, TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+#EXTINF:64,DIRECTV SPORTS
+https://vadp.pricesaskeloadsc.com/global/dsports/index.m3u8?token=817c2b46b5a30c758f357ab65b597f28772206c2-e6-1724228687-1724192687
 #EXTINF:64, TyC SPORTS
 https://vadp.pricesaskeloadsc.com/global/tyc_sports/index.m3u8?token=59154ff1193863cf2ad9cbfc50294735305c2632-15-1724227824-1724191824
 #EXTINF:64, TyC SPORTS 2
