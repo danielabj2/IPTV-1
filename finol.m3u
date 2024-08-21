@@ -321,6 +321,15 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://a5.pokaz.me/gDtozPWuJxnzxFtcCqx7uQ/174/1722918477/index.m3u8
 #EXTINF:24,MTV 00s
 https://a5.pokaz.me/fGepGwZnm8IwBjXzPGUXdA/175/1722918582/index.m3u8
+#EXTINF:0,ASPEN
+#EXTVLCOPT:network-caching=1000
+https://24223.live.streamtheworld.com/ASPEN_SC
+#EXTINF:0,ROCK AND POP
+#EXTVLCOPT:network-caching=1000
+https://27403.live.streamtheworld.com/ROCKANDPOP_SC
+#EXTINF:0,VORTERIX RADIO
+#EXTVLCOPT:network-caching=1000
+http://104.131.4.100:8000/;
 #EXTINF:23, MEGA 98.3
 #EXTVLCOPT:network-caching=1000
 https://mega983.stweb.tv/mega983/live/chunks.m3u8
