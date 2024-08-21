@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:36,GEN TV
-#EXTVLCOPT:network-caching=1000
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:48,NEO TV
 #EXTVLCOPT:network-caching=1000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -99,8 +96,6 @@ https://cars565.pricesaskeloadsc.com/fox2ar/index.m3u8?token=57464f21d831816752e
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
-#EXTINF:48,CHILEVISUAL FILM
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w2000869191.m3u8
 #EXTINF:48,SPTV
 #EXTVLCOPT:network-caching=1000
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
@@ -123,6 +118,21 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:48,CANAL 40
 https://canalsj.kozow.com/canal40/index.m3u8
+#EXTINF:48,RUDYVISION
+https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
+#EXTINF:48,TV TERROR
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:48,ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1872711672.m3u8
+#EXTINF:48,INVASIVA TV
+https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
+#EXTINF:48,TELECLASICA TV
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
+#EXTINF:48,MICROVISION HD
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w765901470.m3u8
+#EXTINF:36,GEN TV
+#EXTVLCOPT:network-caching=1000
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:48,LIM TV
 #EXTVLCOPT:network-caching=1000
 https://5790d294af2dc.streamlock.net/limtv/limtv/chunklist.m3u8
@@ -169,12 +179,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:30, RETROXTV
 #EXTVLCOPT:network-caching=1000
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-#EXTINF:0,TICKTV
-https://ssh101-fl.bozztv.com/ssh101/ticktv/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
-#EXTINF:0,CNI DIGITAL
-https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:0,TOTO VISION
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:0,VISION TV
@@ -187,8 +193,6 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunk
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:0,EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:0,MULTIVISION ARG
-https://panel.dattalive.com/8250/8250/chunklist_w1169619889.m3u8
 #EXTINF:0,CROM TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:0,CITRICO TV
@@ -235,21 +239,12 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1272120785.m3u8
 #EXTINF:120, FREE TV
 #EXTVLCOPT:network-caching=1000
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:60, CINE SUREÑO
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1df0767f-74e8-44f4-9cf7-92d8d9204262/4.m3u8
-#EXTINF:60, TU CINE
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
 #EXTINF:54, MY TIME MOVIES
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:54, MY TIME MOVIES 2
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:54, FLOU CINE
-#EXTVLCOPT:network-caching=1000
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
 #EXTINF:36, PELIMEX
 #EXTVLCOPT:network-caching=1000
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
@@ -274,9 +269,6 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:78,TELECINCO TRELEW
 #EXTVLCOPT:network-caching=1000
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:46, RETRO MAGICO
-#EXTVLCOPT:network-caching=1000
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:46,LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:40,ANIMESTATION
@@ -314,13 +306,6 @@ http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:26, PASIONES HD
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:24, TN 24
-#EXTVLCOPT:network-caching=1000
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:24,MTV 80s
-https://a5.pokaz.me/gDtozPWuJxnzxFtcCqx7uQ/174/1722918477/index.m3u8
-#EXTINF:24,MTV 00s
-https://a5.pokaz.me/fGepGwZnm8IwBjXzPGUXdA/175/1722918582/index.m3u8
 #EXTINF:0,ASPEN
 #EXTVLCOPT:network-caching=1000
 https://24223.live.streamtheworld.com/ASPEN_SC
@@ -489,18 +474,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:0, CO TELEPACIFICO 
 #EXTVLCOPT:network-caching=1000
 http://1tv41.icu:8080/Py5zFZ/363334/78729
-#EXTINF:0, A&E
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0s8/index.m3u8
-#EXTINF:0, A&E HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q7/index.m3u8
-#EXTINF:0, AMC
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pr/index.m3u8
-#EXTINF:0, AMC HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q8/index.m3u8
 #EXTINF:0, AXN
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0pp/index.m3u8
@@ -510,33 +483,12 @@ http://181.189.243.251:8000/play/a0qe/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0sb/index.m3u8
-#EXTINF:0, Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q4/index.m3u8
-#EXTINF:0, Antena 3
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0nv/index.m3u8
 #EXTINF:0, Antena 7- RD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0p2/index.m3u8
-#EXTINF:0, Atres Series
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0o1/index.m3u8
-#EXTINF:0, Azcorazon
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pg/index.m3u8
-#EXTINF:0, Azmundo
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0s4/index.m3u8
-#EXTINF:0, BBC World
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pt/index.m3u8
 #EXTINF:0, Baby First
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0r3/index.m3u8
-#EXTINF:0, Baby TV
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ns/index.m3u8
 #EXTINF:0, CARTOON NT HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0op/index.m3u8
@@ -558,114 +510,27 @@ http://181.189.243.251:8000/play/a0o7/index.m3u8
 #EXTINF:0, CNNE
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0ps/index.m3u8
-#EXTINF:0, Canal 10 - ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0o0/index.m3u8
-#EXTINF:0, Canal 10 HD - ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0o8/index.m3u8
-#EXTINF:0, Canal 11 - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qj/index.m3u8
-#EXTINF:0, Canal 11 - HON
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0p0/index.m3u8
-#EXTINF:0, Canal 11 Backup
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0vm/index.m3u8
-#EXTINF:0, Canal 13 - PAN
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0p5/index.m3u8
-#EXTINF:0, Canal 13-GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qi/index.m3u8
-#EXTINF:0, Canal 19  ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0r2/index.m3u8
-#EXTINF:0, Canal 2 - ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ru/index.m3u8
-#EXTINF:0, Canal 2 - PAN
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0p6/index.m3u8
-#EXTINF:0, Canal 3 - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rs/index.m3u8
-#EXTINF:0, Canal 4 - ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rt/index.m3u8
-#EXTINF:0, Canal 4 HD ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0uq/index.m3u8
-#EXTINF:0, Canal 5 - HON
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0u1/index.m3u8
-#EXTINF:0, Canal 6 - ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qk/index.m3u8
-#EXTINF:0, Canal 7 - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rr/index.m3u8
-#EXTINF:0, Canal 8 TNH HN
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ul/index.m3u8
-#EXTINF:0, Canal Antigua - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rp/index.m3u8
-#EXTINF:0, Canal Azteca - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rq/index.m3u8
 #EXTINF:0, Canal Claro
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0oy/index.m3u8
-#EXTINF:0, Canal Claro HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0oo/index.m3u8
 #EXTINF:0, Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0p8/index.m3u8
-#EXTINF:0, Cartoonito
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pa/index.m3u8
-#EXTINF:0, Claro Sports  HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0on/index.m3u8
-#EXTINF:0, Color Vision 9 - RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0s0/index.m3u8
 #EXTINF:0, Comedy Central HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0su/index.m3u8
 #EXTINF:0, DHE
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0ok/index.m3u8
-#EXTINF:0, DHE HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qd/index.m3u8
-#EXTINF:0, DISC THEATHER HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0sr/index.m3u8
 #EXTINF:0, Deportes TVC - HON
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0uk/index.m3u8
 #EXTINF:0, Digital 15 - RD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0qp/index.m3u8
-#EXTINF:0, Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0sa/index.m3u8
-#EXTINF:0, Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0tb/index.m3u8
 #EXTINF:0, Discovery ID HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0tf/index.m3u8
-#EXTINF:0, Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ob/index.m3u8
-#EXTINF:0, Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ny/index.m3u8
 #EXTINF:0, Discovery World HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0tc/index.m3u8
@@ -690,15 +555,9 @@ http://181.189.243.251:8000/play/a0sf/index.m3u8
 #EXTINF:0, ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0va/index.m3u8
-#EXTINF:0, ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rb/index.m3u8
 #EXTINF:0, ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0vb/index.m3u8
-#EXTINF:0, ESPN 6 HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0vc/index.m3u8
 #EXTINF:0, ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0vk/index.m3u8
@@ -714,18 +573,12 @@ http://181.189.243.251:8000/play/a0pw/index.m3u8
 #EXTINF:0, El Gourmet
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0r8/index.m3u8
-#EXTINF:0, Europa HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qb/index.m3u8
 #EXTINF:0, Exa TV
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0tu/index.m3u8
 #EXTINF:0, Exa TV
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0sg/index.m3u8
-#EXTINF:0, FOX SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0t7/index.m3u8
 #EXTINF:0, FUTV HD CR
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0t3/index.m3u8
@@ -735,42 +588,6 @@ http://181.189.243.251:8000/play/a0r4/index.m3u8
 #EXTINF:0, FX HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0qa/index.m3u8
-#EXTINF:0, Film & Arts
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0oj/index.m3u8
-#EXTINF:0, Film & arts HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q6/index.m3u8
-#EXTINF:0, Fox Sport 3
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pm/index.m3u8
-#EXTINF:0, France24
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pu/index.m3u8
-#EXTINF:0, Golden
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rh/index.m3u8
-#EXTINF:0, Golden Premiere 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0od/index.m3u8
-#EXTINF:0, Golden Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0oc/index.m3u8
-#EXTINF:0, Golf Channel
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0o3/index.m3u8
-#EXTINF:0, Golf Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qg/index.m3u8
-#EXTINF:0, Guatevision - GUA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0oz/index.m3u8
-#EXTINF:0, H2
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0r7/index.m3u8
-#EXTINF:0, HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ou/index.m3u8
 #EXTINF:0, HBO HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0vl/index.m3u8
@@ -801,9 +618,6 @@ http://181.189.243.251:8000/play/a0st/index.m3u8
 #EXTINF:0, HTV
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0rg/index.m3u8
-#EXTINF:0, History Channel
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0sc/index.m3u8
 #EXTINF:0, History HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0px/index.m3u8
@@ -876,12 +690,6 @@ http://181.189.243.251:8000/play/a0v6/index.m3u8
 #EXTINF:0, Playboy
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0ow/index.m3u8
-#EXTINF:0, QATAR en vivo
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ts/index.m3u8
-#EXTINF:0, RCN Novelas
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0r5/index.m3u8
 #EXTINF:0, SEMILLITAS
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0pd/index.m3u8
@@ -897,18 +705,9 @@ http://181.189.243.251:8000/play/a0ph/index.m3u8
 #EXTINF:0, STAR CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0si/index.m3u8
-#EXTINF:0, Sembrador
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rm/index.m3u8
-#EXTINF:0, Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qc/index.m3u8
 #EXTINF:0, Star TVE HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0qf/index.m3u8
-#EXTINF:0, Sun Channel
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0r9/index.m3u8
 #EXTINF:0, SyFy
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0s9/index.m3u8
@@ -918,12 +717,6 @@ http://181.189.243.251:8000/play/a0pv/index.m3u8
 #EXTINF:0, TBS
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0pj/index.m3u8
-#EXTINF:0, TD+2 HD CR
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0oa/index.m3u8
-#EXTINF:0, TD+HD CR
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0o9/index.m3u8
 #EXTINF:0, TLC
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0sd/index.m3u8
@@ -940,41 +733,6 @@ http://181.189.243.251:8000/play/a0uf/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0pi/index.m3u8
 #EXTINF:0, TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0ta/index.m3u8
-#EXTINF:0, TSI 
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0us/index.m3u8
-#EXTINF:0, TVChile
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0nw/index.m3u8
-#EXTINF:0, Teen Nick HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q1/index.m3u8
-#EXTINF:0, Tele Antillas - RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0p1/index.m3u8
-#EXTINF:0, TeleMicro - RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0rz/index.m3u8
-#EXTINF:0, Telecentro - RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qu/index.m3u8
-#EXTINF:0, Telemundo
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0pf/index.m3u8
-#EXTINF:0, Telemundo HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0q9/index.m3u8
-#EXTINF:0, Telesistema RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0p3/index.m3u8
-#EXTINF:0, Teleuniverso - RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0qr/index.m3u8
-#EXTINF:0, Televida RD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0of/index.m3u8
 #EXTINF:0, Tigo Sports HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0sn/index.m3u8
@@ -1005,18 +763,6 @@ http://181.189.243.251:8000/play/a0sz/index.m3u8
 #EXTINF:0, Univision HD
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.251:8000/play/a0v0/index.m3u8
-#EXTINF:0, VTV Canal 35 ESA
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0r1/index.m3u8
-#EXTINF:0, WARNER HD
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0tk/index.m3u8
-#EXTINF:0, Warner
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0s6/index.m3u8
-#EXTINF:0, ZooMoo
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.251:8000/play/a0nt/index.m3u8
 #EXTINF:0, Pluto TV Cine Estelar
 https://jmp2.uk/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:0, Pluto TV Cine Acción
