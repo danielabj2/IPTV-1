@@ -14,9 +14,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
 #EXTINF:64, TyC SPORTS
-https://vadp.pricesaskeloadsc.com/global/tyc_sports/index.m3u8?token=59154ff1193863cf2ad9cbfc50294735305c2632-15-1724227824-1724191824
-#EXTINF:64, TyC SPORTS OPCION 2
-https://obla.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=59154ff1193863cf2ad9cbfc50294735305c2632-15-1724227824-1724191824
+https://5156.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=0c16afc884a28c5bb13231ace6d4f9c103452f8a-72-1724294615-1724258615
 #EXTINF:64, TyC SPORTS 2
 https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
 #EXTINF:117, EVENTOS TyC PLAY 1
@@ -59,37 +57,17 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTVLCOPT:network-caching=1000
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:64,DIRECTV SPORTS
-https://obla.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=b4f1d39615289b92037470fcd933d45794adcf3d-ea-1724286046-1724250046
-#EXTINF:64,DIRECTV SPORTS OPCION 2
-https://obla.pricesaskeloadsc.com/dsports/index.m3u8?token=b4f1d39615289b92037470fcd933d45794adcf3d-ea-1724286046-1724250046
+https://812.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=a3b910ff0e6d3468426916c64e1897267d32dcf5-cf-1724294229-1724258229
 #EXTINF:64,DIRECTV SPORTS 2
-https://vals88.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=7197cb2f6c3c78a4de1dcdaa37d0e8c23a2d87f2-18-1724228838-1724192838
-#EXTINF:64,DIRECTV SPORTS 2 OPCION 2
-https://vals88.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=7197cb2f6c3c78a4de1dcdaa37d0e8c23a2d87f2-18-1724228838-1724192838
+https://cale.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=09da962bdec5df00d7aa0bea721197075be2f7e1-91-1724294350-1724258350
 #EXTINF:64,DIRECTV SPORTS PLUS 
-https://acppdo.pricesaskeloadsc.com/dsports_plus/index.m3u8?token=acf778c374da7d20f96b875129bb52220fbf49c8-4a-1724230039-1724194039
-#EXTINF:64,DIRECTV SPORTS PLUS OPCION 2
-https://acppdo.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=acf778c374da7d20f96b875129bb52220fbf49c8-4a-1724230039-1724194039
+https://812.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=2bf36b9e6b3e4831a69789c900d002ca3bf48904-4f-1724294397-1724258397
 #EXTINF:64,ESPN 
-https://florcd.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=bbcc88b855a660201af1a77f0ec6fd761f0ea65e-0c-1724229584-1724193584
-#EXTINF:64,ESPN OPCION 2
-https://florcd.pricesaskeloadsc.com/espn1/index.m3u8?token=bbcc88b855a660201af1a77f0ec6fd761f0ea65e-0c-1724229584-1724193584
+https://update8915.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=21bdff41aa52294e197f1670f83348aa90b73ca2-a8-1724294509-1724258509
 #EXTINF:64,ESPN 2
-https://cos1.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=212d01c781290bdf166bf96c50f1eeff7530982d-d7-1724229707-1724193707
-#EXTINF:64,ESPN 2 OPCION 2
-https://cos1.pricesaskeloadsc.com/espn2/index.m3u8?token=212d01c781290bdf166bf96c50f1eeff7530982d-d7-1724229707-1724193707
+https://812.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=9656c3a2d6b4825f1ce3788681e774403ab100bb-53-1724294542-1724258542
 #EXTINF:64,ESPN 3
-https://acppdo.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=47d4e2be1a9ba96c6dd8037b26e01e766b312504-ec-1724229770-1724193770
-#EXTINF:64,ESPN 3 OPCION 2
-https://acppdo.pricesaskeloadsc.com/espn3/index.m3u8?token=47d4e2be1a9ba96c6dd8037b26e01e766b312504-ec-1724229770-1724193770
-#EXTINF:64,FOX SPORTS
-https://vals88.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=13757855ec63445b445ebe664a697470a3bcb4a6-bc-1724231213-1724195213
-#EXTINF:64,FOX SPORTS OPCION 2
-https://vals88.pricesaskeloadsc.com/fox1ar/index.m3u8?token=13757855ec63445b445ebe664a697470a3bcb4a6-bc-1724231213-1724195213
-#EXTINF:64,FOX SPORTS 3 
-https://cars565.pricesaskeloadsc.com/fox2ar/tracks-v1a1/mono.m3u8?token=57464f21d831816752e996ee1c1892608f4007bd-f8-1724231327-1724195327
-#EXTINF:64,FOX SPORTS 3 OPCION 2
-https://cars565.pricesaskeloadsc.com/fox2ar/index.m3u8?token=57464f21d831816752e996ee1c1892608f4007bd-f8-1724231327-1724195327
+https://51a.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=919d3dbea09bab69e9795b693c07fc0f0a203ce2-55-1724294571-1724258571
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:48,CANAL 10.1 CR
