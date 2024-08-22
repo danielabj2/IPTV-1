@@ -142,6 +142,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:30, TV RETRO PALMARES
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
+#EXTINF:30,RETRO PLUS
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w298894750.m3u8
 #EXTINF:30, CLASSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
@@ -153,6 +155,12 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+#EXTINF:0,TELEPORTAL
+https://fl1002.bozztv.com/ssh101/teleportal/tracks-v1a1/mono.m3u8
+#EXTINF:0,CADENA TOP10
+https://fl1002.bozztv.com/ssh101/cadenatop10tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,PUROSUR TV
+https://fl1002.bozztv.com/ssh101/radiotvpurosur/tracks-v1a1/mono.m3u8
 #EXTINF:0,TOTO VISION
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:0,VISION TV
