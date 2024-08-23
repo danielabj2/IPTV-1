@@ -55,17 +55,21 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTVLCOPT:network-caching=1000
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:64,EVENTOS DIRECTV SPORTS 
-https://vadp.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=116a4a87256e58ef8e26f79fa6b71d8fccacd44f-48-1724380251-1724344251
+https://050.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=c68c7b0452b12c55f86c4e726c93ec38ad180a70-e0-1724464103-1724428103
 #EXTINF:64,EVENTOS DIRECTV SPORTS 2
-https://lae.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=e1dbf97ac2bb937cd61cb00c9378848dfc490a7a-ab-1724380299-1724344299
+https://u4c5a.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=02c7aa6f05cba792fa24fce6df9fcd36814681b8-69-1724464153-1724428153
 #EXTINF:64,EVENTOS DIRECTV SPORTS PLUS 
-https://cars565.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=be6da387a86437abdf3cc6ef991a2bc416a3087c-32-1724380335-1724344335
+https://u4c5a.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=4523e881ef97c985f4b945a4f817800552713b32-5d-1724464220-1724428220
 #EXTINF:64,EVENTOS ESPN 
 https://050.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=591c2c93aa0ea42448b5c50c3de4ebed647c56bd-d5-1724381192-1724345192
 #EXTINF:64,EVENTOS ESPN 2
 https://lae.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=487df33049d7f90e8ed56d3367d59539049a54ce-78-1724381260-1724345260
 #EXTINF:64,EVENTOS ESPN 3
 https://update8915.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=e3f39bd1bf1658fe9f228f4da94fbfdae54b2ece-65-1724380434-1724344434
+#EXTINF:64,EVENTOS ESPN PREMIUM
+https://zw5k.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.150.37&token=ca88ea3f5efb04bb1da934a3af34df54a690f479-d57da692e2cc8936472e50d1b67bbc28-1724464320-1724428320
+#EXTINF:64,EVENTOS TNT SPORTS 
+https://y2fzdgxl.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.150.37&token=c02ef87800be1d91c0f6587c24808eb5d4b98409-d1ca56895f89dad658b44a42c55bb6a8-1724464428-1724428428
 #EXTINF:-1,VORTERIX
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:48,CANAL 10.1 CR
