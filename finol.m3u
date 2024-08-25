@@ -14,7 +14,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTVLCOPT:network-caching=1000
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:108,EVENTOS TYC SPORTS
-https://cad99.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=f589293b8eb849eaf0f933bb3c5019951a01c68a-d4-1724637934-1724601934
+https://lae.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=2338c6736dcd14c0ef1cdafa4859f535f95f048c-28-1724640246-1724604246
 #EXTINF:64,EVENTOS TyC SPORTS 2
 https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
 #EXTINF:117, EVENTOS TyC PLAY 1
@@ -57,21 +57,21 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTVLCOPT:network-caching=1000
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:64,EVENTOS DIRECTV SPORTS 
-https://update8915.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=f6715f2242cc0b8ad7671c8aa984ebd8423cd182-19-1724637964-1724601964
+https://pecdl.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=91c89da93aec75f4cf928ed7bee8a3cffb449487-38-1724640287-1724604287
 #EXTINF:64,EVENTOS DIRECTV SPORTS 2
-https://8c5.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=4dc5fdf8bc3e5dce2ff89776a2e0ad0d484ce33d-19-1724638005-1724602005
+https://acppdo.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=8c6233816f86d308a3e758746cdc9476bf464ac4-9d-1724640317-1724604317
 #EXTINF:64,EVENTOS DIRECTV SPORTS PLUS 
-https://51a.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=df69ee0ea322c8d239b7a6a3cbc9f5bb84364634-72-1724638035-1724602035
+https://24a.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=78fa3c0ff06d8e9194ecb3f7a888f95c710a5a21-75-1724640346-1724604346
 #EXTINF:64,EVENTOS ESPN 
-https://obla.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=2884386b48714e34e65608cbfc9e2ed5fd9c925c-64-1724638068-1724602068
+https://8c5.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=7c3672736928ebb087cabbcf8f743c4d4d4dcc26-0e-1724640521-1724604521
 #EXTINF:64,EVENTOS ESPN 2
-https://vadp.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=bb9ad4b6642fe724318e7ed181369852df019338-5b-1724638102-1724602102
+https://florcd.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=f4d3344d0fc0346b1a7111792c9993417fcf0002-3c-1724640548-1724604548
 #EXTINF:64,EVENTOS ESPN 3
-https://acppdo.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=41dbcfcf9f8cda0d37ed3160015c0cd6213410ea-8b-1724638125-1724602125
+https://vasoc88.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=ec89c8a4d97f827bdb2157be6629efa46426528c-f9-1724640578-1724604578
 #EXTINF:64,EVENTOS ESPN PREMIUM
-https://812.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=9a5438b66798c4b73e0f5e239b7c27750fecf28c-4e-1724638151-1724602151
+https://vasoc88.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=bf7af8ab38f13c5954b885d47380f9329861d29f-4d-1724640434-1724604434
 #EXTINF:64,EVENTOS TNT SPORTS 
-https://98ca.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=c5e1ddf60945baddf0ab2b61951a3f0976bf3f81-7f-1724638179-1724602179
+https://99a.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=bc176e0f59ed89030cdf9ee9c034e28ffe3b7db6-e1-1724640467-1724604467
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,SPTV
