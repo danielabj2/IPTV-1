@@ -52,9 +52,9 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTVLCOPT:network-caching=1000
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:64,EVENTOS ESPN PREMIUM
-https://bwfrzq.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.19&token=6b9d838534fed20e22cfd4a56106550b8c8d629f-4dafc8698acfc1f814322bd7fb47bb0f-1725159929-1725123929
+https://bgvnzw5k.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=0020c68a1c8735da6c6a36598e946700c303bef8-ff1fcaf22eda96a54a8003fffe19a853-1725254399-1725218399
 #EXTINF:64,EVENTOS TNT SPORTS
-https://a2lja3m.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.19&token=afc7767025c0502fb7916e28dad4255eb0698d03-2a6bd6298dadd4a04ac23ceb66feee58-1725159854-1725123854
+https://cale.pricesaskeloadsc.com/global/tntsport/index.m3u8?token=c17875f33d145409be8e19acb9ef75a3004e62fd-e4-1725253829-1725217829
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
@@ -81,8 +81,6 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:48,CANAL 40
 https://canalsj.kozow.com/canal40/index.m3u8
-#EXTINF:48,RUDYVISION
-https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 #EXTINF:48,TV TERROR
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:48,ORBIT TV
