@@ -68,6 +68,20 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:48,PILAR TV
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
+#EXTINF:48,CRTV
+https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/chunklist_w2076460751.m3u8
+#EXTINF:48,ZTV
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
+#EXTINF:48,ANI RETRO
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:48,DVC TELEVISION
+https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
+#EXTINF:48,MAS CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:48,TVA
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:48, TV Y TV
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1439652785.m3u8
 #EXTINF:48,COMUNICACIONES JIMENEZ
 https://ssh101-fl.bozztv.com/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 #EXTINF:48,CANAL 8
@@ -135,6 +149,22 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 https://ssh101-fl.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
 #EXTINF:30,RETRO PLUS
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w298894750.m3u8
+#EXTINF:30,RETRO PLUS 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1848893955.m3u8
+#EXTINF:30,RETRO PLUS 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w452075726.m3u8
+#EXTINF:30,RECUERDOS RETRO TV
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w2112441094.m3u8
+#EXTINF:30,APAINES TV
+https://ssh101-fl.bozztv.com/ssh101/apaninestv/tracks-v1a1/mono.m3u8
+#EXTINF:30,MONI TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:30,RUIDOS TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:30,ETERNAL METAL TV
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
+#EXTINF:30,VCLASSICTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w637898057.m3u8
 #EXTINF:30, CLASSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
@@ -260,6 +290,8 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:78,TELECINCO TRELEW
 #EXTVLCOPT:network-caching=1000
 https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:78,MAX ANIME
+https://list.iptvcat.com/my_list/s/18f6f4d492d90cbb72a226341e633566.m3u8
 #EXTINF:46,MAGIC KIDS
 https://ssh101-fl.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:46,LOCOMOTION
