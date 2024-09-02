@@ -52,9 +52,9 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTVLCOPT:network-caching=1000
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:64,EVENTOS ESPN PREMIUM
-https://bgvnzw5k.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=0020c68a1c8735da6c6a36598e946700c303bef8-ff1fcaf22eda96a54a8003fffe19a853-1725254399-1725218399
+https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=b8c633f325fb2df3942c32186237a7031b6a4ded-e6ba3ed9a50c9a068f6bfaf0e25d114c-1725331256-1725295256
 #EXTINF:64,EVENTOS TNT SPORTS
-https://99a.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=61f67e2b1e45971b0a3a444e65cf437c688d6a67-23-1725254269-1725218269
+https://ym9yzq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=9562cc7a59f6de446f481d6abc9e9dc8146935fd-0bad7c68a19fc185492863cb54079f33-1725331205-1725295205
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
@@ -103,6 +103,10 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 EXTINF:48,METRO TV
 #EXTVLCOPT:network-caching=1000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+EXTINF:48,TV NOSARA
+https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+EXTINF:48,CONO SUR TV
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:48,TELERED
 #EXTVLCOPT:network-caching=1000
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
@@ -139,7 +143,7 @@ https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:30, RETROXTV
 #EXTVLCOPT:network-caching=1000
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+https://cloudvideo.servers10.com:8081/8064/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:0,TELEPORTAL
