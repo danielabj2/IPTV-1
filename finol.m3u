@@ -68,16 +68,26 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:48,PILAR TV
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
+#EXTINF:48,RETRO
+https://fl1002.bozztv.com/ssh101/retroiptv/tracks-v1a1/mono.m3u8
+#EXTINF:48,RETRO CR
+https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
 #EXTINF:48,CRTV
 https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/chunklist_w2076460751.m3u8
 #EXTINF:48,ZTV
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
+#EXTINF:48,HEX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
 #EXTINF:48,ANI RETRO
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:48,DVC TELEVISION
 https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
 #EXTINF:48,MAS CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:48,PAIJAN
+https://fl1002.bozztv.com/ssh101/canal7paijan/tracks-v1a1/mono.m3u8
+#EXTINF:48,AYW
+https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:48,TVA
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:48, TV Y TV
@@ -306,9 +316,9 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:135, ZAZ TV
 #EXTVLCOPT:network-caching=1000
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:29, ENERGEEK
+#EXTINF:29, ENERGEEK RETRO
 #EXTVLCOPT:network-caching=1000
-https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8
 #EXTINF:29, DREIKO TV
 #EXTVLCOPT:network-caching=1000
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
