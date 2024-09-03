@@ -55,6 +55,8 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=b8c633f325fb2df3942c32186237a7031b6a4ded-e6ba3ed9a50c9a068f6bfaf0e25d114c-1725331256-1725295256
 #EXTINF:64,EVENTOS TNT SPORTS
 https://ym9yzq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=9562cc7a59f6de446f481d6abc9e9dc8146935fd-0bad7c68a19fc185492863cb54079f33-1725331205-1725295205
+#EXTINF:64,SPORTMAX
+https://fl1002.bozztv.com/ssh101/sportmax/tracks-v1a1/mono.m3u8
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
@@ -68,10 +70,10 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:48,PILAR TV
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
-#EXTINF:48,RETRO
+#EXTINF:48,MG TV
 https://fl1002.bozztv.com/ssh101/retroiptv/tracks-v1a1/mono.m3u8
-#EXTINF:48,RETRO CR
-https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+#EXTINF:48,UVA TV
+https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:48,CRTV
 https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/chunklist_w2076460751.m3u8
 #EXTINF:48,ZTV
@@ -94,6 +96,10 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1439652785.m3u8
 #EXTINF:48,COMUNICACIONES JIMENEZ
 https://ssh101-fl.bozztv.com/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
+#EXTINF:48,SALTO TV
+https://fl1002.bozztv.com/ssh101/redcanindeyu/tracks-v1a1/mono.m3u8
+#EXTINF:48,MAXIMA TV
+https://fl1002.bozztv.com/ssh101/maxtvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:48,CANAL 8
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3u8
@@ -198,10 +204,14 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:20,CINEMA PLUS
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:20,CINE 53
+https://fl1002.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 #EXTINF:0,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:0,IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:0,MULTICANAL
+https://fl1002.bozztv.com/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
 #EXTINF:0,EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:0,CROM TV
@@ -236,6 +246,10 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:0,TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:0,QUAERE TV
+https://fl1002.bozztv.com/ssh101/quaerearg/tracks-v1a1/mono.m3u8
+#EXTINF:0,SUPERCANAL
+https://fl1002.bozztv.com/ssh101/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:0, TIGUERITOS TV
 #EXTVLCOPT:network-caching=1000
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -304,6 +318,8 @@ https://videohd.live:19360/8016/8016.m3u8
 https://list.iptvcat.com/my_list/s/18f6f4d492d90cbb72a226341e633566.m3u8
 #EXTINF:46,MAGIC KIDS
 https://ssh101-fl.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+#EXTINF:46,RETRO MAGICO
+https://fl1002.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:46,LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:40,ANIMESTATION
