@@ -55,18 +55,6 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=cc9429c194b04dd204914a5ac119bec19d45e729-72e71d8ae91c21f9e81baf7ac16b39b5-1725412873-1725376873
 #EXTINF:64,EVENTOS TNT SPORTS
 https://c2f2zq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=70578235ac49e5ca5eb97b2b6c6b417957ba5c5f-9a0c082228f350faecac83407f159bfe-1725412976-1725376976
-#EXTINF:64,HBO
-http://192.141.99.3:8000/play/a05j
-#EXTINF:-1,HBO
-http://191.52.214.5:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO 2
-http://192.141.99.3:8000/play/a05l
-#EXTINF:-1,HBO 2 
-http://191.52.214.5:8000/play/a06o/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://191.52.214.5:8000/play/a06q/index.m3u8
-#EXTINF:-1,HBO XTREME 
-http://191.52.214.5:8000/play/a03x/index.m3u8
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
@@ -1072,4 +1060,69 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 #EXTINF:0, Karaoke por Stingray
 #EXTVLCOPT:network-caching=1000
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1874a39d-6a98-11ef-b4e7-daf4eb24d900
-
+#EXTINF:64,HBO
+http://192.141.99.3:8000/play/a05j
+#EXTINF:-1,HBO
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO 2
+http://192.141.99.3:8000/play/a05l
+#EXTINF:-1,HBO 2 
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://191.52.214.5:8000/play/a06q/index.m3u8
+#EXTINF:-1,HBO XTREME 
+http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:-1,FX
+http://191.52.214.5:8000/play/a02r/index.m3u8
+#EXTINF:-1,TNT
+http://192.141.99.3:8000/play/a05p
+#EXTINF:-1,A&E
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:-1,AMC
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1,AXN
+http://191.52.214.5:8000/play/a01v/index.m3u8
+#EXTINF:-1,GOLDEN
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1,SPACE
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1,TNT
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1,TNT SERIES
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://191.52.214.5:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:-1,ESPN
+http://192.141.99.3:8000/play/a05h
+#EXTINF:-1,ESPN 2
+http://192.141.99.3:8000/play/a05s
+#EXTINF:-1,ESPN 2
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1,ESPN 3
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:-1,ESPN 3
+http://192.141.99.3:8000/play/a05q
+#EXTINF:-1,ESPN 4
+http://192.141.99.3:8000/play/a06g
+#EXTINF:-1,ESPN 6 
+http://192.141.99.3:8000/play/a05r
+#EXTINF:-1,FOX SPORTS 1 
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:-1,MOVISTAR GOLPERU
+http://192.141.99.3:8000/play/a02x
+#EXTINF:-1,GOLPERU
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,MOVISTAR GOLTV
+http://192.141.99.3:8000/play/a03d
+#EXTINF:-1,MOVISTAR DEPORTES
+http://192.141.99.3:8000/play/a036
