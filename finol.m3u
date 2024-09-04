@@ -57,6 +57,16 @@ https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144
 https://c2f2zq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=70578235ac49e5ca5eb97b2b6c6b417957ba5c5f-9a0c082228f350faecac83407f159bfe-1725412976-1725376976
 #EXTINF:64,HBO
 http://192.141.99.3:8000/play/a05j
+#EXTINF:-1,HBO
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO 2
+http://192.141.99.3:8000/play/a05l
+#EXTINF:-1,HBO 2 
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://191.52.214.5:8000/play/a06q/index.m3u8
+#EXTINF:-1,HBO XTREME 
+http://191.52.214.5:8000/play/a03x/index.m3u8
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
