@@ -55,10 +55,8 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=cc9429c194b04dd204914a5ac119bec19d45e729-72e71d8ae91c21f9e81baf7ac16b39b5-1725412873-1725376873
 #EXTINF:64,EVENTOS TNT SPORTS
 https://c2f2zq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=70578235ac49e5ca5eb97b2b6c6b417957ba5c5f-9a0c082228f350faecac83407f159bfe-1725412976-1725376976
-#EXTINF:-1,HBO
-http://directo.ddns.me:2082/stkalval/7409/7010
-#EXTINF:-1, TN Argentina
-http://directo.ddns.me:2082/stkalval/7409/57162
+#EXTINF:-1,EVENTOS TNT SPORTS
+http://directo.ddns.me:2082/stkalval/7409/57163
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
