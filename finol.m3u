@@ -55,8 +55,6 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://dglvz29s.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=cc9429c194b04dd204914a5ac119bec19d45e729-72e71d8ae91c21f9e81baf7ac16b39b5-1725412873-1725376873
 #EXTINF:64,EVENTOS TNT SPORTS
 https://c2f2zq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=190.173.144.20&token=70578235ac49e5ca5eb97b2b6c6b417957ba5c5f-9a0c082228f350faecac83407f159bfe-1725412976-1725376976
-#EXTINF:-1,EVENTOS TNT SPORTS
-http://directo.ddns.me:2082/stkalval/7409/57163
 #EXTINF:48,CANAL 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:48,STV
@@ -1062,5 +1060,52 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 #EXTINF:0, Karaoke por Stingray
 #EXTVLCOPT:network-caching=1000
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1874a39d-6a98-11ef-b4e7-daf4eb24d900
-
+#EXTINF:-1,HBO
+http://directo.ddns.me:2082/stkalval/7409/7010
+#EXTINF:-1,HBO HD
+http://directo.ddns.me:2082/stkalval/7409/2642
+#EXTINF:-1,HBO FHD
+http://directo.ddns.me:2082/stkalval/7409/2676
+#EXTINF:-1,HBO 2
+http://directo.ddns.me:2082/stkalval/7409/7011
+#EXTINF:-1,HBO 2 HD
+http://directo.ddns.me:2082/stkalval/7409/2643
+#EXTINF:-1,HBO 2 FHD
+http://directo.ddns.me:2082/stkalval/7409/2677
+#EXTINF:-1,HBO Family
+http://directo.ddns.me:2082/stkalval/7409/7013
+#EXTINF:-1,HBO Family HD
+http://directo.ddns.me:2082/stkalval/7409/2644
+#EXTINF:-1,HBO Family FHD
+http://directo.ddns.me:2082/stkalval/7409/6509
+#EXTINF:-1,HBO Mundi 
+http://directo.ddns.me:2082/stkalval/7409/15618
+#EXTINF:-1,HBO Mundi  HD
+http://directo.ddns.me:2082/stkalval/7409/30415
+#EXTINF:-1,HBO Mundi FHD
+http://directo.ddns.me:2082/stkalval/7409/39810
+#EXTINF:-1,HBO Plus
+http://directo.ddns.me:2082/stkalval/7409/7012
+#EXTINF:-1,HBO Plus HD
+http://directo.ddns.me:2082/stkalval/7409/2645
+#EXTINF:-1,HBO Plus FHD
+http://directo.ddns.me:2082/stkalval/7409/2678
+#EXTINF:-1,HBO Pop 
+http://directo.ddns.me:2082/stkalval/7409/15619
+#EXTINF:-1,HBO Pop HD
+http://directo.ddns.me:2082/stkalval/7409/30416
+#EXTINF:-1,HBO Pop FHD
+http://directo.ddns.me:2082/stkalval/7409/50829
+#EXTINF:-1,HBO Signature
+http://directo.ddns.me:2082/stkalval/7409/7014
+#EXTINF:-1,HBO Signature HD
+http://directo.ddns.me:2082/stkalval/7409/2646
+#EXTINF:-1,HBO Signature FHD
+http://directo.ddns.me:2082/stkalval/7409/6510
+#EXTINF:-1,HBO Xtreme
+http://directo.ddns.me:2082/stkalval/7409/30625
+#EXTINF:-1,HBO Xtreme HD
+http://directo.ddns.me:2082/stkalval/7409/2695
+#EXTINF:-1,HBO Xtreme FHD
+http://directo.ddns.me:2082/stkalval/7409/39811
 
