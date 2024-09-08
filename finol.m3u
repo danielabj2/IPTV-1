@@ -4,6 +4,12 @@
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:24,DIRECTV 1
+https://812.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=eac4b3ce677d68d1019df105dc2e68cf89f91d60-0d-1725843241-1725807241
+#EXTINF:24,DIRECTV 2
+https://acppdo.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=2a57be58797d029439d2cb59f2fe814c3ba7ccc6-ba-1725843293-1725807293
+#EXTINF:24,DIRECTV PLUS
+https://bcja.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=4d43508b7258969c57036e7a75bdf2342dfd5c6a-c7-1725843333-1725807333
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
