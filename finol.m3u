@@ -4,18 +4,14 @@
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:24,DIRECTV 1
-https://812.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=eac4b3ce677d68d1019df105dc2e68cf89f91d60-0d-1725843241-1725807241
-#EXTINF:24,DIRECTV 2
-https://acppdo.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=2a57be58797d029439d2cb59f2fe814c3ba7ccc6-ba-1725843293-1725807293
-#EXTINF:24,DIRECTV PLUS
-https://bcja.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=4d43508b7258969c57036e7a75bdf2342dfd5c6a-c7-1725843333-1725807333
 #EXTINF:24, EL TRECE
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:108, TELEFE
 #EXTVLCOPT:network-caching=1000
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:64,TYC SPORTS
+http://200.60.124.19:29000/play/a0am/index.m3u8
 #EXTINF:64,EVENTOS TyC SPORTS 2
 https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
 #EXTINF:117, EVENTOS TyC PLAY 1
@@ -82,16 +78,12 @@ https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/chunklist_w2076460751.m3u8
 #EXTINF:48,ZTV
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
-#EXTINF:48,HEX
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
 #EXTINF:48,ANI RETRO
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:48,DVC TELEVISION
 https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
 #EXTINF:48,MAS CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:48,PAIJAN
-https://fl1002.bozztv.com/ssh101/canal7paijan/tracks-v1a1/mono.m3u8
 #EXTINF:48,AYW
 https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:48,TVA
@@ -1088,8 +1080,6 @@ http://191.52.214.5:8000/play/a01s/index.m3u8
 http://191.52.214.5:8000/play/a02x/index.m3u8
 #EXTINF:-1,AXN
 http://191.52.214.5:8000/play/a01v/index.m3u8
-#EXTINF:-1,GOLDEN
-http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1,PARAMOUNT
 http://191.52.214.5:8000/play/a032/index.m3u8
 #EXTINF:-1,STAR CHANNEL
