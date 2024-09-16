@@ -281,7 +281,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:29,TELESISTEMA
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:29,RUNTIME TV
-https://stream.ads.ottera.tv/cl/240916crkb7b25me10asc3v46g/1280x720_3071200_0_f.m3u84
+https://stream.ads.ottera.tv/cl/240916crkb7b25me10asc3v46g/1280x720_3071200_0_f.m3u8
 #EXTINF:29,RUNTIME CRIMEN
 https://stream.ads.ottera.tv/cl/240916crka8r6d8v318bcl9n9g/1920x1080_4787200_4_f.m3u8
 #EXTINF:29,RUNTIME ACCION
@@ -308,7 +308,7 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:78,MAX ANIME
-https://list.iptvcat.com/my_list/s/18f6f4d492d90cbb72a226341e633566.m3u8
+https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w284780168.m3u8
 #EXTINF:46,MAGIC KIDS
 https://ssh101-fl.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:46,RETRO MAGICO
@@ -324,13 +324,15 @@ https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:135, ZAZ TV
 #EXTVLCOPT:network-caching=1000
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+https://stream-us-east-1.getpublica.com/cl/240916crkbgh39ac1ak35hp48g/1280x720_1500000_0_f.m3u8
 #EXTINF:29, ENERGEEK RETRO
 #EXTVLCOPT:network-caching=1000
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=eXWfWtZfp47ojCip8jpG3K
+#EXTINF:29,HEX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=45632562
 #EXTINF:29, DREIKO TV
 #EXTVLCOPT:network-caching=1000
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:29, FANPOP TV
 #EXTVLCOPT:network-caching=1000
 https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
