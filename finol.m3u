@@ -86,8 +86,6 @@ https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:48,AYW
 https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
-#EXTINF:48,TVA
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:48, TV Y TV
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1439652785.m3u8
 #EXTINF:48,OPINION SUR
@@ -112,8 +110,6 @@ https://fl1002.bozztv.com/ssh101/pycausacomuntv/tracks-v1a1/mono.m3u8
 https://ssh101-fl.bozztv.com/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 #EXTINF:48,SALTO TV
 https://fl1002.bozztv.com/ssh101/redcanindeyu/tracks-v1a1/mono.m3u8
-#EXTINF:48,MAXIMA TV
-https://fl1002.bozztv.com/ssh101/maxtvstreaming/tracks-v1a1/mono.m3u8
 #EXTINF:48,CANAL 8
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w203267845_b1662976.m3u8
@@ -125,8 +121,6 @@ https://canalsj.kozow.com/canal40/index.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:48,ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1872711672.m3u8
-#EXTINF:48,TELECENTRO TV
-ttps://fl1002.bozztv.com/ssh101/0013/tracks-v1a1/mono.m3u8
 #EXTINF:48,TELEMIX
 https://fl1002.bozztv.com/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 #EXTINF:48,MICROVISION HD
@@ -149,13 +143,8 @@ EXTINF:48,TV NOSARA
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
 EXTINF:48,CONO SUR TV
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
-#EXTINF:48,TELERED
-#EXTVLCOPT:network-caching=1000
-https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:48,CINCO TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:48,COSMOS TV
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w663542552.m3u8
 #EXTINF:48,COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:48,QUATRO TV
@@ -185,8 +174,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w452075726.m3u8
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w2112441094.m3u8
 #EXTINF:30,APAINES TV
 https://ssh101-fl.bozztv.com/ssh101/apaninestv/tracks-v1a1/mono.m3u8
-#EXTINF:30,MONI TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:30,RUIDOS TV
 https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 #EXTINF:30,ETERNAL METAL TV
@@ -204,20 +191,10 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cloudvideo.servers10.com:8081/8064/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
-#EXTINF:0,TELEPORTAL
-https://fl1002.bozztv.com/ssh101/teleportal/tracks-v1a1/mono.m3u8
-#EXTINF:0,CADENA TOP10
-https://fl1002.bozztv.com/ssh101/cadenatop10tv/tracks-v1a1/mono.m3u8
-#EXTINF:0,PUROSUR TV
-https://fl1002.bozztv.com/ssh101/radiotvpurosur/tracks-v1a1/mono.m3u8
-#EXTINF:0,TOTO VISION
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:0,VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:20,CINEMA PLUS
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:20,CINE 53
-https://fl1002.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 #EXTINF:0,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:0,IMAGEN UNIVERSAL TV
@@ -230,8 +207,6 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:0,CITRICO TV
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
-#EXTINF:0,LA CALETA TV
-https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 #EXTINF:0,BELLAVISION
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:0,TELEMAX HD
@@ -244,22 +219,16 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:0,ESTACION RETRO
 https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
-#EXTINF:0,FRECUENCIA MUSICAL
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0,FRECUENCIA MUSICAL OP2
+#EXTINF:0,FRECUENCIA MUSICAL 
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:0,GOGOPLAY
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:0,CHILEPLAY TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:0,CHILEVISUAL RETRO
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:0,WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:0,TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:0,QUAERE TV
-https://fl1002.bozztv.com/ssh101/quaerearg/tracks-v1a1/mono.m3u8
 #EXTINF:0,SUPERCANAL
 https://fl1002.bozztv.com/ssh101/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:0, TIGUERITOS TV
@@ -280,8 +249,6 @@ https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olym
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb553d177b6c648999d43e60d1ef42a3de2402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9abb65d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42b5c5db84b2a0736d5b850ff2754d88609df2c348aac8837242c0e0ecc405fe7a456f1abb5094cdf68a1d3b479af0b7d5c4599f8fe2ecae2c662ef01d123af50c4cca1a9fb2ab0e5e04337837f56733511728c9471d3e850b3c8936a38e60140d0c0e487d1fad24f7caa524055f4fe89c90d1ca87fe857e0424dd7228d4a8a3f992b8b00b5e45deacbd1bb13176af2960f0975d1d0f0c03246139cc6826d1dd89b7fc4dbb43239e860dd30223b91b2ea0683c61b82bf2d84fb4b083dce9e56a4bcbb91eaa3b7bafd4ffaeafb82344e42624b57c80de2d25ad227d977bfdd530f680d15fdd4059fc6ee573e341bddc046824740f9c99dd98e5c628430521acf65da500a239e643d2cb57ca9cb7c4a80340f833a25b40967d90cacca599fcdecec083fbac9d402ae3f9dd224e6b653f9236c2347d99501505f4571dcef1c7c1670d140e2dcd2a13a4937e5f9c9f1d7407a601d1241079fedf77af8df967805772132cd9da7c6712149d5b60c15e87685a224c6207cabb1/161/1920x1080_6046040/index.m3u8
 #EXTINF:120, FREE TV SUREÑO
 https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/cb553d177b6c648999d43e60d1ef42a3de2402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9abb65d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42b5c5db84b2a026ad8ee5dff255ad88609df2c348aac8837242f5c0e9c405fb4f508f7a9e70e168c69a0bb3b72a27e11a49c078b883e87baee0ddc16d332b70acecdade97b21b8a2a9d86e8c834e6b79103ff0a16b94cc53a2d394684be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885ff108a165b1f93ded1c8b2b861ca4e842a1efcdb7a1fa88c5b63a435dccc7b58ff53a20fd47f2b0ecce391af392452e149f3f8c4a7949a5ad81ddf7e33436cfec71b1811e65ed310fe5bcbf86fdb98e4bd304d8c0f196294b40624b209358ac957ee408d46aaddd29d13d277480954fcd8ad55f7f3701d6c016e31a15bdd49c909f200f8a314b14b83b996c0c629a60373cfd7badc17c7e9f7c5bd76c73ab1175a747ffb323baf58bb4566be48e9602d966fdb00cddee4df83f651752c1874635724573d4e1711e7028933783fdfea126594ebc8d8894a77e371d301b5e0df193c179898bc62605568c1311697a14188117940efb055a0b3ac60ed9ce51249d67c14c545aec8b3c59258d5e77cfbf958b8c3407289a50f2/80/848x480_1686360/index.m3u8
-#EXTINF:120, FREE TV DRAMA
-https://cinereallatam-plex.amagi.tv/CineRealLATAMx/master_6.m3u8
 #EXTINF:120, FREE TV LIVE
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb553d177b6c648999d43e60d1ef42a3de2402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9abb65d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42b5c5db84b2a0e34daee0faa7451d88609df2c348aac8837242c535ac9405ce7f45ba5fde2084dd93ff3bb3b72a27e11a49c078b883e87baee0ddc16d332b70acecdade97b21b8a2a9d86e8c834e6b79103ff0a16b94cc53a2d394684be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885ff108a165b1f93ded1c8b2b861ca4e842a1efcdb7a1fa88c5b63a435dccc7b58ff53a20fd47f2b0ecce391af392452e149f3f8c4a7949a5ad81ddf7e33436cfec71b1811e65ed310fe5bcbf86fdb98e4bd304d8c0f196294b40624b209358ac957ee408d46aaddd29d13d277480954fcd8ad55f7f3701d6c016e31a15bdd49c909f200f8a314b14b83b996c0c629a60373cfd7badc17c7e9f7c5bd76c73ab1175a747ffb323baf58bb4566be48e9602d966fdb00cddee4df83f651752c1874635724573d4e1711e7028933783fdfea126594ebc8d8894a77e371d301b5e0df193c179898bc62605568c1311697a14188117940efb055a0b3ac60ed9ce58269d67c14c4c59ec8b3c48f4a3a28bd02a94a3f3497382019cec/12/1920x1080_6046040/index.m3u8
 #EXTINF:54, MY TIME MOVIES
@@ -309,16 +276,24 @@ https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:29,TELESISTEMA
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:29,RUNTIME
-https://stream.ads.ottera.tv/cl/240826cr6cqopleco3apetarng/1280x720_3071200_0_f.m3u8?i=728_2154
 #EXTINF:29,RUNTIME CRIMEN
-https://stream.ads.ottera.tv/cl/240826cr6cq7229f1cijfjo5ig/1280x720_3071200_0_f.m3u8?i=475_3533
-#EXTINF:29,RUNTIME THILLER
-https://stream.ads.ottera.tv/cl/240826cr6cr470sngdol5fbrc0/1280x720_3071200_0_f.m3u8?i=475_3529
+https://stream.ads.ottera.tv/cl/240916crka8r6d8v318bcl9n9g/1920x1080_4787200_4_f.m3u8
+#EXTINF:29,RUNTIME TERROR
+https://stream.ads.ottera.tv/cl/240916crka7gdtt2o9tjklaf8g/1280x720_3071200_0_f.m3u8
 #EXTINF:29,RUNTIME ACCION
-https://stream.ads.ottera.tv/cl/240826cr6crdl6jk5st584gib0/1280x720_3071200_0_f.m3u8?i=728_2550
+https://stream.ads.ottera.tv/cl/240916crka7gdtt2o9tjklaf8g/1280x720_3071200_0_f.m3u8
 #EXTINF:29,RUNTIME COMEDIA
-https://stream.ads.ottera.tv/cl/240826cr6crludkq3pi036gsc0/1280x720_3071200_0_f.m3u8?i=475_2551
+https://stream.ads.ottera.tv/cl/240916crkah1it5fmit5mgtom0/1280x720_3071200_0_f.m3u8
+#EXTINF:29,RUNTIME FAMILIA
+https://stream.ads.ottera.tv/cl/240916crkaa0gmpfufnbn8o5p0/1280x720_3071200_0_f.m3u8
+#EXTINF:29,RUNTIME ROMANCE
+https://stream.ads.ottera.tv/cl/240916crka9isa81fngt0shpfg/1280x720_3071200_0_f.m3u8
+#EXTINF:29,RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/cl/240916crka81btn761rnnc8spg/1280x720_3071200_0_f.m3u8
+#EXTINF:29,SANGRE FRIA
+https://stream.ads.ottera.tv/cl/240916crka7ugvlv4logkcjlhg/1280x720_3071200_0_f.m3u8
+#EXTINF:29,CINE EN ESPAÑOL
+https://stream.ads.ottera.tv/cl/240916crka7gdtt2o9tjklaf8g/1280x720_3071200_0_f.m3u8
 #EXTINF:29,ANTEQUERA
 https://www.streaming101tv.es:19360/antequera/antequera.m3u8
 #EXTINF:29,AGENDA AL DIA
