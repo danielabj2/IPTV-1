@@ -67,11 +67,15 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 #EXTINF:48,BAYRES TV
 #EXTVLCOPT:network-caching=1000
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:48,CINCO TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:48,PILAR TV
 #EXTVLCOPT:network-caching=1000
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
 #EXTINF:48,MG TV
 https://fl1002.bozztv.com/ssh101/retroiptv/tracks-v1a1/mono.m3u8
+#EXTINF:48,EVAVISION RETRO
+https://stmv2.casttv.com.br/evaretro/evaretro/chunklist_w628832678.m3u8
 #EXTINF:48,UVA TV
 https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:48,CRTV
@@ -84,6 +88,10 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
 #EXTINF:48,MAS CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:30,TERROR TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:30,TV MONI
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:48,AYW
 https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:48, TV Y TV
@@ -143,8 +151,6 @@ EXTINF:48,TV NOSARA
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
 EXTINF:48,CONO SUR TV
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
-#EXTINF:48,CINCO TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:48,COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:48,QUATRO TV
@@ -188,7 +194,7 @@ https://paneltv.online:1936/8046/8046/chunklist_w1274496685.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:30, RETROXTV
 #EXTVLCOPT:network-caching=1000
-https://cloudvideo.servers10.com:8081/8064/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/retroxcr/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAS TV
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:0,VISION TV
@@ -267,9 +273,6 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:24,QUANTICA TV
 #EXTVLCOPT:network-caching=1000
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:13,CINCO TV TIGRE
-#EXTVLCOPT:network-caching=1000
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:29,EL SELLO TV MADARIAGA
 #EXTVLCOPT:network-caching=1000
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
@@ -327,7 +330,7 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://stream-us-east-1.getpublica.com/cl/240916crkbgh39ac1ak35hp48g/1280x720_1500000_0_f.m3u8
 #EXTINF:29, ENERGEEK RETRO
 #EXTVLCOPT:network-caching=1000
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=eXWfWtZfp47ojCip8jpG3K
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=WgmB9e6pp9QYNPndec6FV5
 #EXTINF:29,HEX
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=45632562
 #EXTINF:29, DREIKO TV
@@ -386,18 +389,12 @@ http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 #EXTINF:75, CADENA 1470 AM LANUS
 #EXTVLCOPT:network-caching=1000
 https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
-#EXTINF:48, RADIO AZAHARES FM 101.5 CORRIENTES
-#EXTVLCOPT:network-caching=1000
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:26, CANAL 11 HONDURAS
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a02q/index.m3u8
 #EXTINF:26, CANAL 12 ESA
 #EXTVLCOPT:network-caching=1000
 http://45.166.92.22:58001/play/a05h/index.m3u8
-#EXTINF:29, EL SELLO TV MADARIAGA
-#EXTVLCOPT:network-caching=1000
-https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:12, CANAL U CORDOBA
 #EXTVLCOPT:network-caching=1000
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
@@ -439,9 +436,6 @@ https://ssh101-fl.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:48, CANAL 34 SAN JUAN
 #EXTVLCOPT:network-caching=1000
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:25,ITEL TV
-#EXTVLCOPT:network-caching=1000
-http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 #EXTINF:48, RADIO ZONA FM 99.7 CONCORDIA
 #EXTVLCOPT:network-caching=1000
 https://streamyes.alsolnet.com/radiozona/live/playlist.m3u8
@@ -463,15 +457,9 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:25, 5TV CORRIENTES
 #EXTVLCOPT:network-caching=1000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:30, CTV CORRIENTES
-#EXTVLCOPT:network-caching=1000
-https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 #EXTINF:120, TELENORD CORRIENTES
 #EXTVLCOPT:network-caching=1000
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:31, CANAL 3 FORMOSA
-#EXTVLCOPT:network-caching=1000
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:29, SUBLIME GRACIA TV FORMOSA
 #EXTVLCOPT:network-caching=1000
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
