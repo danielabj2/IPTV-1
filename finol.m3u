@@ -92,6 +92,18 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:48,DVC TELEVISION
 https://us.streaminghd.cl/dvctelevision/tracks-v1a1/mono.m3u8
+#EXTINF:48,TVCD
+https://fl1002.bozztv.com/ssh101/tvcdstreaming/tracks-v1a1/mono.m3u8
+#EXTINF:48,TV2
+https://glb.bozztv.com/glb/ssh101/streamtv2/tracks-v1a1/mono.m3u8
+#EXTINF:48,CINE STAR
+https://fl1002.bozztv.com/ssh101/cinestarteve/tracks-v1a1/mono.m3u8
+#EXTINF:48,DIMELO TV
+https://fl1002.bozztv.com/ssh101/dimelotvrd/tracks-v1a1/mono.m3u8
+#EXTINF:48,MAX HD
+https://fl1002.bozztv.com/ssh101/maxhd/tracks-v1a1/mono.m3u8
+#EXTINF:48,CUSCO
+https://fl1002.bozztv.com/ssh101/ucchullo/tracks-v1a1/mono.m3u8
 #EXTINF:48,MAS CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:30,TERROR TV
@@ -292,6 +304,8 @@ https://stream-us-east-1.getpublica.com/cl/241107csm1n8ete61atpsa29c0/1280x720_1
 #EXTINF:29, ENERGEEK RETRO
 #EXTVLCOPT:network-caching=1000
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=WgmB9e6pp9QYNPndec6FV5
+#EXTINF:29, ENERGEEK FAN
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 #EXTINF:29, DREIKO TV
 #EXTVLCOPT:network-caching=1000
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
