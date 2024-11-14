@@ -84,6 +84,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
 #EXTINF:48,EVAVISION RETRO
 https://stmv2.casttv.com.br/evaretro/evaretro/chunklist_w628832678.m3u8
+#EXTINF:48,MEGA CINE TV
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:48,UVA TV
 https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:48,ZTV
@@ -121,7 +123,7 @@ https://fl1002.bozztv.com/ssh101/streamlatacungatv/tracks-v1a1/mono.m3u8
 #EXTINF:48,BTV DIGITAL
 https://fl1002.bozztv.com/ssh101/btvdigital/tracks-v1a1/mono.m3u8
 #EXTINF:48,MIX BOLIVIA
-https://fl1002.bozztv.com/ssh101/mixboliviatvvip/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
 #EXTINF:48,LA HERMOSA STEREO
 https://fl1002.bozztv.com/ssh101/lhstv/tracks-v1a1/mono.m3u8
 #EXTINF:48,TELECANAL JUJUY
@@ -295,6 +297,8 @@ https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w284780168.m3u8
 https://fl1002.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:40,TALTALTV
 https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
+#EXTINF:40,ANIMESTATION
+https://glb.bozztv.com/glb/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:29, BIG CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
