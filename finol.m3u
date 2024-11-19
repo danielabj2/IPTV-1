@@ -974,10 +974,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u
 #EXTINF:0, Karaoke por Stingray
 #EXTVLCOPT:network-caching=1000
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1874a39d-6a98-11ef-b4e7-daf4eb24d900
-#EXTINF:-1,HBO
-http://191.52.214.5:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO 2 
-http://191.52.214.5:8000/play/a06o/index.m3u8
 #EXTINF:-1,HBO FAMILY
 http://191.52.214.5:8000/play/a06q/index.m3u8
 #EXTINF:-1,HBO XTREME 
@@ -1002,4 +998,89 @@ http://191.52.214.5:8000/play/a024/index.m3u8
 http://191.52.214.5:8000/play/a059/index.m3u8
 #EXTINF:-1,WARNER CHANNEL
 http://191.52.214.5:8000/play/a01u/index.m3u8
-
+#EXTINF:11,A&E HD
+http://190.83.2.172:8080/play/a030/index.m3u8
+#EXTINF:11,AMC HD
+http://190.83.2.172:8080/play/a02g/index.m3u8
+#EXTINF:11,AMC HD
+http://190.83.2.172:8080/play/a031/index.m3u8
+#EXTINF:11,Animal Planet HD
+http://190.83.2.172:8080/play/a02x/index.m3u8
+#EXTINF:11,AXN HD
+http://190.83.2.172:8081/play/a06t/index.m3u8
+#EXTINF:11,AZ click HD
+http://190.83.2.172:8080/play/a037/index.m3u8
+#EXTINF:11,Canal VTV HND
+http://190.83.2.172:8081/play/a065/index.m3u8
+#EXTINF:11,CARTOON NT HD
+http://190.83.2.172:8080/play/a01k/index.m3u8
+#EXTINF:11,Cine Latino
+http://190.83.2.172:8081/play/a06l/index.m3u8
+#EXTINF:11,Comedy Central HD
+http://190.83.2.172:8081/play/a05l/index.m3u8
+#EXTINF:11,DHE HD
+http://190.83.2.172:8080/play/a036/index.m3u8
+#EXTINF:11,Discovery H&H HD
+http://190.83.2.172:8080/play/a02p/index.m3u8
+#EXTINF:11,Discovery Home & Health HD
+http://190.83.2.172:8081/play/a05j/index.m3u8
+#EXTINF:11,E! Entertairment HD
+http://190.83.2.172:8080/play/a02y/index.m3u8
+#EXTINF:11,ESPN 3 HD
+http://190.83.2.172:8080/play/a02c/index.m3u8
+#EXTINF:11,ESPN 5 HD
+http://190.83.2.172:8081/play/a07g/index.m3u8
+#EXTINF:11,ESPN HD
+http://190.83.2.172:8080/play/a06x/index.m3u8
+#EXTINF:11,ESPN HD
+http://190.83.2.172:8080/play/a025/index.m3u8
+#EXTINF:11,ESPN HD
+http://190.83.2.172:8080/play/a06x/index.m3u8
+#EXTINF:11,Europa HD
+http://190.83.2.172:8080/play/a034/index.m3u8
+#EXTINF:11,Exa TV
+http://190.83.2.172:8081/play/a058/index.m3u8
+#EXTINF:11,Film & arts HD
+http://190.83.2.172:8080/play/a02z/index.m3u8
+#EXTINF:11,FX HD
+http://190.83.2.172:8081/play/a0hw/index.m3u8
+#EXTINF:11,FX HD
+http://190.83.2.172:8080/play/a033/index.m3u8
+#EXTINF:11,Golden Premiere HD
+http://190.83.2.172:8080/play/a017/index.m3u8
+#EXTINF:11,History HD
+http://190.83.2.172:8080/play/a02q/index.m3u8
+#EXTINF:11,MTV HD
+http://190.83.2.172:8080/play/a02s/index.m3u8
+#EXTINF:11,MTV
+http://190.83.2.172:8081/play/a05z/index.m3u8
+#EXTINF:11,MTV 00s HD
+http://190.83.2.172:8081/play/a05n/index.m3u8
+#EXTINF:11,MTV 80s
+http://190.83.2.172:8080/play/a02h/index.m3u8
+#EXTINF:11,MTV LIVE HD
+http://190.83.2.172:8081/play/a05m/index.m3u8
+#EXTINF:11,MTV HITS HD
+http://190.83.2.172:8080/play/a02g/index.m3u8
+#EXTINF:11,MTV SIM HD
+http://190.83.2.172:8081/play/a05m/index.m3u8
+#EXTINF:11,Nat Geo HD
+http://190.83.2.172:8080/play/a071/index.m3u8
+#EXTINF:11,Paramount HD
+http://190.83.2.172:8080/play/a072/index.m3u8
+#EXTINF:11,Sony Movies HD
+http://190.83.2.172:8080/play/a035/index.m3u8
+#EXTINF:11,SPACE HD
+http://190.83.2.172:8081/play/a06u/index.m3u8
+#EXTINF:11,STAR CHANNEL HD
+http://190.83.2.172:8081/play/a05a/index.m3u8
+#EXTINF:11,Star TVE HD
+http://190.83.2.172:8080/play/a038/index.m3u8
+#EXTINF:11,TCM
+http://190.83.2.172:8081/play/a04d/index.m3u8
+#EXTINF:11,Teen Nick HD
+http://190.83.2.172:8080/play/a02v/index.m3u8
+#EXTINF:11,RCN - TNT HD
+http://190.83.2.172:8081/play/a05h/index.m3u8
+#EXTINF:11,WARNER HD
+http://190.83.2.172:8081/play/a05b/index.m3u8
